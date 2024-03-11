@@ -1,0 +1,826 @@
+[
+  {
+    "title": "Task offloading in fog computing: A survey of algorithms and optimization techniques",
+    "evaluation": "40.000"
+  },
+  {
+    "title": "Task offloading in Edge and Cloud Computing: A survey on mathematical, artificial intelligence and control theory solutions",
+    "evaluation": "22.000"
+  },
+  {
+    "title": "Distributed intelligence on the Edge-to-Cloud Continuum: A systematic literature review",
+    "evaluation": "20.300"
+  },
+  {
+    "title": "Approximate computing in B5G and 6G wireless systems: A survey and future outlook",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Optimal placement of applications in the fog environment: A systematic literature review",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "A holistic survey of multipath wireless video streaming",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Deep learning models for cloud, edge, fog, and IoT computing paradigms: Survey, recent advances, and future directions",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Integration of blockchain and edge computing in internet of things: A survey",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "IoT and artificial intelligence implementations for remote healthcare monitoring systems: A survey",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "All one needs to know about fog computing and related edge computing paradigms: A complete survey",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Auto-scaling techniques in container-based cloud and edge/fog computing: Taxonomy and survey",
+    "evaluation": "10.600"
+  },
+  {
+    "title": "Fog node discovery and selection: A Systematic literature review",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A survey of subscription privacy on the 5G radio interface - The past, present and future",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "Monitoring fog computing: A review, taxonomy and open challenges",
+    "evaluation": "8.000"
+  },
+  {
+    "title": "Application of the digital volume correlation technique for the measurement of displacement and strain fields in bone: A literature review",
+    "evaluation": "6.800"
+  },
+  {
+    "title": "Cloud computing security taxonomy: From an atomistic to a holistic view",
+    "evaluation": "6.000"
+  },
+  {
+    "title": "End-to-end slices to orchestrate resources and services in the cloud-to-edge continuum",
+    "evaluation": "3.600"
+  },
+  {
+    "title": "A Real-Time Deep Learning-based Smart Surveillance Using Fog Computing: A Complete Architecture",
+    "evaluation": "2.900"
+  },
+  {
+    "title": "P4-assisted seamless migration of serverless applications towards the edge continuum",
+    "evaluation": "2.600"
+  },
+  {
+    "title": "Resource orchestration in 5G and beyond: Challenges and opportunities",
+    "evaluation": "2.500"
+  },
+  {
+    "title": "Balancing local vs. remote state allocation for micro-services in the cloud\u2013edge continuum",
+    "evaluation": "2.100"
+  },
+  {
+    "title": "AFCL: An Abstract Function Choreography Language for serverless workflow specification",
+    "evaluation": "2.100"
+  },
+  {
+    "title": "Computing continuum-level explosive shock and detonation response over a wide pressure range from microstructural details",
+    "evaluation": "1.800"
+  },
+  {
+    "title": "Realizing dynamic resource orchestration on cloud systems in the cloud-to-edge continuum",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "Linking scientific instruments and computation: Patterns, technologies, and experiences",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "Assessing and enhancing a Cloud-IoT monitoring service over federated testbeds",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "A phase-field approach to model fracture of arterial walls: Theory and finite element analysis",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "Orchestrating heterogeneous MEC-based applications for connected vehicles",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "A finite strain non-parametric hyperelastic extension of the classical phenomenological theory for orthotropic compressible composites",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "Multiscale progressive damage analysis of CFRP composites using a mechanics based constitutive relation",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "Modeling the propagation of arterial dissection",
+    "evaluation": "1.600"
+  },
+  {
+    "title": "An edge\u2013cloud integrated framework for flexible and dynamic stream analytics",
+    "evaluation": "1.500"
+  },
+  {
+    "title": "NET-RAT: Non-equilibrium traffic model based on risk allostasis theory",
+    "evaluation": "1.500"
+  },
+  {
+    "title": "The inclusion of scalar dissipation rate in modeling of an n-dodecane spray flame using flamelet generated manifold",
+    "evaluation": "1.400"
+  },
+  {
+    "title": "Chapter 8 - The edge-cloud continuum in wearable sensing for respiratory analysis",
+    "evaluation": "1.300"
+  },
+  {
+    "title": "An experiment-based cohesive-frictional constitutive model for cemented materials",
+    "evaluation": "1.100"
+  },
+  {
+    "title": "Lightweight self-organising distributed monitoring of Fog infrastructures",
+    "evaluation": "1.100"
+  },
+  {
+    "title": "Reliability provisioning for Fog Nodes in Smart Farming IoT-Fog-Cloud continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Osmotic computing-based service migration and resource scheduling in Mobile Augmented Reality Networks (MARN)",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Research challenges in nextgen service orchestration",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Towards Edge-Fog-Cloud Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Video transcoding for adaptive bitrate streaming over edge-cloud continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Real-time determination of sandy soil stiffness during vibratory compaction incorporating machine learning method for intelligent compaction",
+    "evaluation": "0.900"
+  },
+  {
+    "title": "The role of microservice approach in edge computing: Opportunities, challenges, and research directions",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "An assurance process for Big Data trustworthiness",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "An atomistic-based finite deformation continuum membrane model for monolayer Transition Metal Dichalcogenides",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "BarMan: A run-time management framework in the resource continuum",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "3 - Numerical modeling for the seismic assessment of masonry structures",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "New double surface constitutive model of intermittent plastic flow applied to near 0 K adiabatic shear bands",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Chapter 9 - Computational fractional-order calculus and classical calculus AI for comparative differentiability prediction analyses of complex-systems-grounded paradigm",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "The mechanical behavior of skin: Structures and models for the finite element analysis",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Collaborative SLA and reputation-based trust management in cloud federations",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "3-Dimensional Stress Calculation of Competitive Swimwear Using Anisotropic Hyperelastic Model Considering Stress Softening",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Crack propagation and dynamic properties of coal under SHPB impact loading: Experimental investigation and numerical simulation",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Strength homogenization of matrix-inclusion composites using the linear comparison composite approach",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Expansion and deterioration of concrete due to ASR: Micromechanical modeling and analysis",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Statistically informed upscaling of damage evolution in brittle materials",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Development of an unresolved CFD\u2013DEM model for the flow of viscous suspensions and its application to solid\u2013liquid mixing",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Rate dependency mechanism of crystalline rocks induced by impacts: Insights from grain-scale fracturing and micro heterogeneity",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Hydrogen assisted crack initiation in metals under monotonic loading: A new experimental approach",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Extending a radial point interpolation meshless method to non-local constitutive damage models",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "Improving Data Locality in P2P-based Fog Computing Platforms",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "A cohesive viscoelastic-elastoplastic-damage model for DEM and its applications to predict the rate- and time-dependent behaviour of asphalt concretes",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "A peridynamic approach to solving general discrete dislocation dynamics problems in plasticity and fracture: Part II. Applications",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Unlocking the potential of edge computing for hyperspectral image classification: An efficient low-energy strategy",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Edge computing vs centralized cloud: Impact of communication latency on the energy consumption of LTE terminal nodes",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "A package-aware scheduling strategy for edge serverless functions based on multi-stage optimization",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Anticipate, Ensemble and Prune: Improving Convolutional Neural Networks via Aggregated Early Exits",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "SDN-based fog and cloud interplay for stream processing",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Numerical modeling of aeroelastic behavior of GTU centrifugal compressor rotor",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Apollon: Towards a citizen science methodology for urban environmental monitoring",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Optimization of the porous material described by the Biot model",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Simulation-aided constitutive law development \u2013 Assessment of low triaxiality void nucleation models via extended finite element method",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "Identification and Design of Industry 4.0 Opportunities in Manufacturing: Examples from Mature Industries to Laboratory Level Systems",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "The role of vehicular applications in the design of future 6G infrastructures",
+    "evaluation": "0.500"
+  },
+  {
+    "title": "A network operator-biased approach for multi-service network function placement in a 5G network slicing architecture",
+    "evaluation": "0.500"
+  },
+  {
+    "title": "Optimized container scheduling for data-intensive serverless edge computing",
+    "evaluation": "0.500"
+  },
+  {
+    "title": "A Maude-Based rewriting approach to model and verify Cloud/Fog self-adaptation and orchestration",
+    "evaluation": "0.500"
+  },
+  {
+    "title": "On workflow scheduling for latency-sensitive edge computing applications",
+    "evaluation": "0.300"
+  },
+  {
+    "title": "Predictive, Prescriptive and Detective Analytics for Smart Manufacturing in the Information Age",
+    "evaluation": "0.300"
+  },
+  {
+    "title": "Measurement-driven design and runtime optimization in edge computing: Methodology and tools",
+    "evaluation": "0.300"
+  },
+  {
+    "title": "Supporting smart construction with dependable edge computing infrastructures and applications",
+    "evaluation": "0.300"
+  },
+  {
+    "title": "Machine learning based fog computing assisted data-driven approach for early lameness detection in dairy cattle",
+    "evaluation": "0.300"
+  },
+  {
+    "title": "Precise path computation based on functional block-based disaggregation for future heterogeneous access-metro networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Review on Discrete Element Method Simulation in Laser Powder Bed Fusion Additive Manufacturing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Special issue on co-design of data and computation management in Fog Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "On fully symmetric implicit closure approximations for fiber orientation tensors",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Task scheduling in fog environment \u2014 Challenges, tools & methodologies: A review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Securing microservices and microservice architectures: A systematic mapping study",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Distributed workflows with Jupyter",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Special issue on Distributed Intelligence at the Edge for the Future Internet of Things",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A coupled FEM-DEM study on mechanical behaviors of granular soils considering particle breakage",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi-scale Crystal Viscoplasticity Approach for Estimating Anisotropic Steady-State Creep Properties of Single-Crystal SnAgCu Alloys",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A new creep contact model for frozen soils and its application",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Molecular mechanics and failure mechanisms in B. mori Silk Fibroin-hydroxyapatite composite interfaces: Effect of crystal thickness and surface characteristics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A multi-layer guided reinforcement learning-based tasks offloading in edge computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "EdgeSimPy: Python-based modeling and simulation of edge computing resource management policies",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Data-flow driven optimal tasks distribution for global heterogeneous systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Insights into security and privacy towards fog computing evolution",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Towards containerized, reuse-oriented AI deployment platforms for cognitive IoT applications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A multi-scale computational model for the passive mechanical behavior of right ventricular myocardium",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A discrete-continuum coupled numerical method for fracturing behavior in concrete dams considering material heterogeneity",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Security of Open Radio Access Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "QoS-aware placement of microservices-based IoT applications in Fog computing environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Kafka-ML: Connecting the data stream with ML/AI frameworks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "BIM and IoT data fusion: The data process model perspective",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cloud and distributed architectures for data management in agriculture 4.0 : Review and future trends",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Formal verification of IoT applications using rewriting logic: An MDE-based approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enabling civil\u2013military collaboration for disaster relief operations in smart city environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Two-equation continuum model of drying appraised by comparison with pore network simulations",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Edge-Cloud based Reference Architecture to support cognitive solutions in Process Industry",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Convergence enhancement of SIMPLE-like steady-state RANS solvers applied to airfoil and cylinder flows",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Temperature-dependent multiscale modeling of graphene sheet under finite deformation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Communication-efficient distributed AI strategies for the IoT edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Blockchain-driven integration technology for the AEC industry",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The view on systems monitoring and its requirements from future Cloud-to-Thing applications and infrastructures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Learning the nonlinear dynamics of mechanical metamaterials with graph networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A natural vector/matrix notation applied in an efficient and robust return-mapping algorithm for advanced yield functions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Towards EXtreme scale technologies and accelerators for euROhpc hw/Sw supercomputing applications for exascale: The TEXTAROSSA approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Context-aware distribution of fog applications using deep reinforcement learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Scaling of strength in hardened cement pastes - Unveiling the role of microstructural defects and the susceptibility of C-S-H gel to physical/chemical degradation by multiscale modeling",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Semantic models for IoT sensing to infer environment\u2013wellness relationships",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Introduction to the Special Section on Research challenges and directions of Data Mining in Edge Computing systems (VSI-dmec)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "DIFFUSE: A DIstributed and decentralized platForm enabling Function composition in Serverless Environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Preface",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Edge-to-cloud sensing and actuation semantics in the industrial Internet of Things",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An isogeometric finite element-boundary element approach for the vibration analysis of submerged thin-walled structures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Adaptive stochastic morphology simulation and mesh generation of high-quality 3D particulate composite microstructures with complex surface texture",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mass release curves as the constitutive curves for modeling diffusive transport within biological tissue",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Editorial: Special issue on trusted Cloud-Edges computations",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Analysis of high strength composite structure developed for low-carbon-low-manganese steel sheet by laser surface treatment",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An enhanced Immersed Structural Potential Method for fluid\u2013structure interaction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Capturing plasticity effects in overdriven shocks on the finite scale",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Programmable City",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "M2DC \u2013 Modular Microserver DataCentre with heterogeneous hardware",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cross-layer reliability evaluation, moving from the hardware architecture to the system level: A CLERECO EU project overview",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mechanical properties and characteristics of microtubules: A review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Special issue on Trusted Cloud-Edges Computations",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Building applications for smart and safe construction with the DECENTER Fog Computing and Brokerage Platform",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "aflak: Visual programming environment enabling end-to-end provenance management for the analysis of astronomical datasets",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cloud-based model predictive control with variable horizon\u204e\u204eThis work has been partially funded by the Wallenberg AI, Autonomous Systems and Software Program (WASP), the ELLIIT strategic research area on IT and mobile communications, and the Nordforsk university hub on Industrial IoT (HI2OT).",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "3-Dimensional Joint Torque Calculation of Compression Sportswear Using 3D-CG Human Model",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Comparison of several staggered atomistic-to-continuum concurrent coupling strategies",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Towards a proper service placement in combined Fog-to-Cloud (F2C) architectures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Gamification in IoT Application: A Systematic Mapping Study",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Framing Artificial Intelligence (AI) Additive Manufacturing (AM)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Contents",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Engineering collective intelligence at the edge with aggregate processes",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Subsonic flow boundary conditions for the direct simulation Monte Carlo method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "GC-Wise: A Self-adaptive approach for memory-performance efficiency in Java VMs",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Inter-cloud Research: Vision for 2020",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Chapter 6 - IoT services in healthcare industry with fog/edge and cloud computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A new approach to modeling isotropic damage for Mullins effect in hyperelastic materials",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi-field modelling of hydride forming metals Part II: Application to fracture",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enabling smart manufacturing through a systematic planning framework for edge computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Topology optimization for additive manufacturing: Accounting for overhang limitations using a virtual skeleton",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Subject Index",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Soil\u2013pipe interaction due to tunnelling: Assessment of Winkler modulus for underground pipelines",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "CEBRA: A CasE-Based Reasoning Application to recommend banking products",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An FPU design template to optimize the accuracy-efficiency-area trade-off",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Instability mechanism of shallow tunnel in soft rock subjected to surcharge loads",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Problem-fluent models for complex decision-making in autonomous materials research",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Rate-dependent mechanical behaviour of semilunar valves under biaxial deformation: From quasi-static to physiological loading rates",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A comprehensive study of simulation frameworks and research directions in fog computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Constitutive-damage modeling and computational implementation for simulation of elasto-viscoplastic-damage behavior of polymeric foams over a wide range of strain rates and temperatures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Continuum-kinetic-microscopic model of lung clearance due to core-annular fluid entrainment",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mechanical models and numerical simulations in nanomechanics: A review across the scales",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A review of edge computing reference architectures and a new global edge proposal",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Strain gradient crystal plasticity model based on generalized non-quadratic defect energy and uncoupled dissipation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "IoTSim-SDWAN: A simulation framework for interconnecting distributed datacenters over Software-Defined Wide Area Network (SD-WAN)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computational efficiency and accuracy of sequential nonlinear cyclic analysis of carbon nanotube nanocomposites",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Chapter 5 - Modeling of Damage in Soft Biological Tissues",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Continuum mechanical modeling of axonal growth",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An implicit unified gas-kinetic scheme for unsteady flow in all Knudsen regimes",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Chapter 7 - Multiscale models for transport and biodistribution of therapeutics in cancer",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "ISO 27018 and personal information in the cloud: First year scorecard",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Smart grid encounters edge computing: opportunities and applications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Trust management in a blockchain based fog computing platform with trustless smart oracles",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Fast Graph Transformation based Direct Solver Algorithm for Regular Three Dimensional Grids",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Secure Multipath Mutation SMPM in Moving Target Defense Based on SDN",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "EdgeKV: Decentralized, scalable, and consistent storage for the edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multiscale Fluid Mechanics and Modeling",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Numerical simulation of axisymmetric drop formation using a coupled level set and volume of fluid method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A discrete dislocation analysis of hydrogen-assisted mode-I fracture",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Hybrid Discrete-continuum Model for Granular Flow",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Kernel-level tracing for detecting stegomalware and covert channels in Linux environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Improving emergency response in the era of ADAS vehicles in the Smart City",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Challenges Emerging from Future Cloud Application Scenarios",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Finite element model of ionic nanowires with size-dependent mechanical properties determined by ab initio calculations",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Contents of Volume 195",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Bulk dynamic response modeling of carbon nanotubes using an intrinsic finite element formulation incorporating interatomic potentials",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Recent Advances in Computational Simulation of Macro-, Meso-, and Micro-Scale Biomimetics Related Fluid Flow Problems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Biomechanical modelling of normal pressure hydrocephalus",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A generic approach towards finite growth with examples of athlete's heart, cardiac dilation, and cardiac wall thickening",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computational modeling of the interaction of two edge cracks, and two edge cracks interacting with a nanovoid, via an atomistic finite element method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Paradoxes, Self-Reference and Truth in the 20th Century",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Time-step coupling for hybrid simulations of multiscale flows",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Subject Index",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computational multiscale methods for granular materials",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "3D-CG Based Stress Calculation of Competitive Swimwear Using Anisotropic Hyperelastic Model",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Modeling and simulation of electrification delivery in functionalized textiles in electromagnetic fields",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Space Debris Reentry Analysis Methods and Tools",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A simple mixed finite element for static limit analysis",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Finite element-based multi-phase modelling of shape memory polymer stents",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi-scale simulations of in-depth pyrolysis of charring ablative thermal protection material",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "TRANSVERSAL VIBRATIONS OF THE AXIALLY MOVING SANDWICH DOUBLE BELT SYSTEM WITH CREEP LAYER",
+    "evaluation": "0.000"
+  }
+]

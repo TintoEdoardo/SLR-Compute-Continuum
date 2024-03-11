@@ -1,0 +1,394 @@
+[
+	{
+		"id": "http://zotero.org/groups/4940020/items/S54I4SHA",
+		"type": "paper-conference",
+		"abstract": "The cloud computing environment has changed over the past years, transitioning from a centralized architecture including big data centers to a dispersed and heterogeneous architecture that incorporates edge followed by device and processing units. This transformation calls for a cross-platform, interoperable solution, a feature that WebAssembly (Wasm) offers. Wasm can be used as a compact and effective representation of server-less functions or micro-services deployment at the cloud edge. In heterogeneous edge settings, where various hardware and software systems might be employed, this is especially crucial. Developers can create applications that can operate on any Wasm-compatible device without spending time worrying about platform-specific challenges by using a common runtime environment.In this survey, we indicate the main challenges and opportunities for Wasm runtimes in the edge-cloud continuum, such as performance optimisation, security, and interoperability with other programming languages and platforms. We provide a comprehensive overview of the current landscape of Wasm outside the web, including possible standardization efforts and best practices for using these runtimes, thus serving as a valuable resource for researchers and practitioners in the field.",
+		"container-title": "2023 3rd International Conference on Intelligent Technologies (CONIT)",
+		"DOI": "10.1109/CONIT59222.2023.10205816",
+		"page": "1-8",
+		"title": "WebAssembly Beyond the Web: A Review for the Edge-Cloud Continuum",
+		"author": [
+			{
+				"family": "Kakati",
+				"given": "Sangeeta"
+			},
+			{
+				"family": "Brorsson",
+				"given": "Mats"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/G2QZE8YM",
+		"type": "paper-conference",
+		"abstract": "Edge to Cloud Continuum is a concept that integrates cloud computing and cellular networks that has been gaining popularity due to its potential to provide a seamless user experience and address the challenges of managing complex multi-domain networks involving massive IoT devices. Enabling intelligence in the Edge to Cloud Continuum can further enhance its capabilities, offering benefits such as reduced latency, improved scalability, enhanced resource utilization, and increased context awareness. This paper provides insights into the opportunities and challenges of enabling intelligence in Edge to Cloud Continuum, highlighting the potential of this technology. This study presents a comprehensive review of the existing literature on enabling intelligence in Edge to Cloud Continuum, to reach the research questions that will construct the PhD. Various tools and technologies that can be used to integrate intelligence into the Edge to Cloud Continuum system were explored and analyzed. In addition, this study provides a detailed work plan for the upcoming months of the project.",
+		"container-title": "2023 IEEE 9th International Conference on Network Softwarization (NetSoft)",
+		"DOI": "10.1109/NetSoft57336.2023.10175414",
+		"note": "ISSN: 2693-9789",
+		"page": "362-365",
+		"title": "Enabling Intelligence Inclusiveness in Edge to Cloud Continuum: Challenges and Opportunities",
+		"author": [
+			{
+				"family": "Palomares",
+				"given": "Javier"
+			},
+			{
+				"family": "Coronado",
+				"given": "Estefanía"
+			},
+			{
+				"family": "Cervelló-Pastor",
+				"given": "Cristina"
+			},
+			{
+				"family": "Siddiqui",
+				"given": "Shuaib"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/84UKWCRZ",
+		"type": "paper-conference",
+		"abstract": "The Function-as-a-Service (FaaS) paradigm is increasingly adopted for the development of Cloud-native applications, which especially benefit from the seamless scalability and attractive pricing models of serverless deployments. With the continuous emergence of latency-sensitive applications and services, including Internet-of-Things and augmented reality, it is now natural to wonder whether and how the FaaS paradigm can be efficiently exploited in the Cloud-Edge Continuum, where serverless functions may benefit from reduced network delay between their invoking users and the FaaS platform. In this paper, we illustrate the key challenges that must be faced to effectively deploy serverless functions in the Cloud-Edge Continuum and review recent contributions proposed by the research community towards overcoming those challenges. We also discuss the key issues that currently remain unsolved and highlight a few research opportunities for better support of FaaS in the Compute Continuum.",
+		"container-title": "2023 31st Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)",
+		"DOI": "10.1109/PDP59025.2023.00056",
+		"note": "ISSN: 2377-5750",
+		"page": "321-328",
+		"title": "Serverless Functions in the Cloud-Edge Continuum: Challenges and Opportunities",
+		"author": [
+			{
+				"family": "Russo",
+				"given": "Gabriele Russo"
+			},
+			{
+				"family": "Cardellini",
+				"given": "Valeria"
+			},
+			{
+				"family": "Presti",
+				"given": "Francesco Lo"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					3
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/IXMDTU59",
+		"type": "article-journal",
+		"abstract": "To keep pace with the explosive growth of Artificial Intelligence (AI) and Machine Learning (ML)-dominated applications, distributed intelligence solutions are gaining momentum, which exploit cloud facilities, edge nodes and end-devices to increase the overall computational power, meet application requirements, and optimize performance. Despite the benefits in terms of data privacy and efficient usage of resources, distributing intelligence throughout the cloud-to-things continuum raises unprecedented challenges to the network design. Distributed AI/ML components need high-bandwidth, low-latency connectivity to execute learning and inference tasks, while ensuring high-accuracy and energy-efficiency. This paper aims to explore the new challenging distributed intelligence scenario by extensively and critically scanning the main research achievements in the literature. In addition, starting from them, the main building blocks of a network ecosystem that can enable distributed intelligence are identified and the authors’ views are dissected to provide guidelines for the design of a “future network for distributed Intelligence”.",
+		"container-title": "IEEE Access",
+		"DOI": "10.1109/ACCESS.2023.3280411",
+		"ISSN": "2169-3536",
+		"page": "52840-52861",
+		"title": "Network for Distributed Intelligence: A Survey and Future Perspectives",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Campolo",
+				"given": "Claudia"
+			},
+			{
+				"family": "Iera",
+				"given": "Antonio"
+			},
+			{
+				"family": "Molinaro",
+				"given": "Antonella"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/UI25BL7S",
+		"type": "article-journal",
+		"abstract": "The edge–cloud continuum combines heterogeneous resources, which are complex to manage. Serverless edge computing is a suitable candidate to manage the continuum by abstracting away the underlying infrastructure, improving developers’ experiences, and optimizing overall resource utilization. However, understanding and overcoming programming support, reliability, and performance engineering challenges are essential for the success of serverless edge computing. In this article, we review and evaluate the maturity of serverless approaches for the edge–cloud continuum. Our review includes commercial, community-driven offerings and approaches from academia. We identify several maturity levels of serverless edge computing and use them as criteria to evaluate the maturity of current state-of-the-art serverless approaches with a special focus on the programming, reliability, and performance challenges. Finally, we lay a road map toward the next generation of serverless edge computing systems.",
+		"container-title": "IEEE Internet Computing",
+		"DOI": "10.1109/MIC.2023.3260939",
+		"ISSN": "1941-0131",
+		"issue": "3",
+		"page": "50-64",
+		"title": "Serverless Edge Computing—Where We Are and What Lies Ahead",
+		"volume": "27",
+		"author": [
+			{
+				"family": "Raith",
+				"given": "Philipp"
+			},
+			{
+				"family": "Nastic",
+				"given": "Stefan"
+			},
+			{
+				"family": "Dustdar",
+				"given": "Schahram"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					5
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/V23T7Q3V",
+		"type": "paper-conference",
+		"abstract": "Robotic systems are more connected, networked, and distributed than ever. New architectures that comply with the de facto robotics middleware standard, ROS 2, have recently emerged to fill the gap in terms of hybrid systems deployed from edge to cloud. This paper reviews new architectures and technologies that enable containerized robotic applications to seamlessly run at the edge or in the cloud. We also overview systems that include solutions from extension to ROS 2 tooling to the integration of Kubernetes and ROS 2. Another important trend is robot learning, and how new simulators and cloud simulations are enabling, e.g., large-scale reinforcement learning or distributed federated learning solutions. This has also enabled deeper integration of continuous interaction and continuous deployment (CI/CD) pipelines for robotic systems development, going beyond standard software unit tests with simulated tests to build and validate code automatically. We discuss the current technology readiness and list the potential new application scenarios that are becoming available. Finally, we discuss the current challenges in distributed robotic systems and list open research questions in the field.",
+		"container-title": "2022 Seventh International Conference on Fog and Mobile Edge Computing (FMEC)",
+		"DOI": "10.1109/FMEC57183.2022.10062523",
+		"page": "1-8",
+		"title": "Distributed Robotic Systems in the Edge-Cloud Continuum with ROS 2: a Review on Novel Architectures and Technology Readiness",
+		"author": [
+			{
+				"family": "Zhang",
+				"given": "Jiaqiang"
+			},
+			{
+				"family": "Keramat",
+				"given": "Farhad"
+			},
+			{
+				"family": "Yu",
+				"given": "Xianjia"
+			},
+			{
+				"family": "Hernández",
+				"given": "Daniel Montero"
+			},
+			{
+				"family": "Queralta",
+				"given": "Jorge Peña"
+			},
+			{
+				"family": "Westerlund",
+				"given": "Tomi"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					12
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/AL27RZ53",
+		"type": "paper-conference",
+		"abstract": "Edge computing supports a wide variety of low latency applications by bringing the capabilities of the cloud close to the end-user. Due to the properties of edge computing, such as limited coverage, it is crucial to develop edge-native technologies based on the edge-cloud continuum rather than on-premise technologies assuming edge standalone environments. In this article, we review standardization activities and survey software platforms for edge-native. We also identify open issues for orchestration technologies of edge-native.",
+		"container-title": "2022 13th International Conference on Information and Communication Technology Convergence (ICTC)",
+		"DOI": "10.1109/ICTC55196.2022.9952940",
+		"note": "ISSN: 2162-1241",
+		"page": "771-774",
+		"title": "Holistic Orchestration for Edge-Native Applications: A Review",
+		"author": [
+			{
+				"family": "Kim",
+				"given": "Taeyun"
+			},
+			{
+				"family": "Oh",
+				"given": "Seoyul"
+			},
+			{
+				"family": "Cha",
+				"given": "Inho"
+			},
+			{
+				"family": "Lee",
+				"given": "Seunghyun"
+			},
+			{
+				"family": "Ko",
+				"given": "Haneul"
+			},
+			{
+				"family": "Pack",
+				"given": "Sangheon"
+			},
+			{
+				"family": "Han",
+				"given": "Jinyoung"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/6M3VEUIT",
+		"type": "article-journal",
+		"abstract": "The edge-cloud continuum is an advanced paradigm for cloud computing, which brings data storage and compute power closer to users or devices, and as a result, eliminates lag time and saves bandwidth. However, this new paradigm is harsh for secure storage and computation due to the separation of data ownership and control. Data security, especially outsourced data integrity in the edge-cloud resilient network, becomes one of the most fundamental challenges. To check the outsourced data integrity and address the efficient key update issue in this scenario, in this article, we propose a framework of outsourced data integrity checking with a practical key update in the edge-cloud resilient network. We first review the existing outsourced data integrity checking algorithms and then put forward a potential solution to achieving outsourced data integrity checking with a practical key update, which is composed of three phases, namely key request and update, local data upload, and outsourced data integrity auditing. We implement a prototype system for our proposal as well, which demonstrates its practicality.",
+		"container-title": "IEEE Wireless Communications",
+		"DOI": "10.1109/MWC.002.2100597",
+		"ISSN": "1558-0687",
+		"issue": "3",
+		"page": "56-62",
+		"title": "Outsourced Data Integrity Checking with Practical Key Update in Edge-Cloud Resilient Networks",
+		"volume": "29",
+		"author": [
+			{
+				"family": "Wang",
+				"given": "Lianhai"
+			},
+			{
+				"family": "Li",
+				"given": "Yannan"
+			},
+			{
+				"family": "Yu",
+				"given": "Qiming"
+			},
+			{
+				"family": "Yu",
+				"given": "Yong"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2022",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/4QR3X4M7",
+		"type": "paper-conference",
+		"abstract": "The IoT technological paradigm has become widespread and has found its place within industries such as smart cities, smart grids, smart homes, physical security, e-health, asset management, and logistics. Around 50 billion various devices will soon be connected to the Internet. A hot topic within the IoT field is edge computing, which adds extra computing capacity to the edge allowing to perform computationally intensive operations like execution of Deep Neural Networks possibly requiring specialized devices equipped with Graphical Processing Units. Optimal construction of solutions that span the IoT, edge, and cloud computing layers is still an open research area, and it is believed that edge computing is in its infancy. This article reviews application layer protocols that can be used to interconnect entities belonging to the three previously mentioned layers.",
+		"container-title": "2021 62nd International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS)",
+		"DOI": "10.1109/ITMS52826.2021.9615332",
+		"page": "1-6",
+		"title": "A Review of Application Layer Communication Protocols for the IoT Edge Cloud Continuum",
+		"author": [
+			{
+				"family": "Kampars",
+				"given": "Janis"
+			},
+			{
+				"family": "Tropins",
+				"given": "Dainis"
+			},
+			{
+				"family": "Matisons",
+				"given": "Ralfs"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/JINF3QZH",
+		"type": "paper-conference",
+		"abstract": "Internet of Things (IoT) is associated with a worldwide network of interconnecting devices which are further connected to the internet, thus considerably increasing the number, range and type of devices. These devices provide anywhere and anytime connection to anyone. The IoT devices produce a large volume of data which necessitates data management. Osmotic Computing (OC), a new paradigm is driven by an increase in the resource capability or capacity at the network edge. The process of OC represents how to migrate services across the data centre to the network edge. Thus, it implies the dynamic management of macroservices and microservices across edge and cloud data centres. The goal of this work is to identify key findings of OC.",
+		"container-title": "2020 Sixth International Conference on Parallel, Distributed and Grid Computing (PDGC)",
+		"DOI": "10.1109/PDGC50313.2020.9315757",
+		"note": "ISSN: 2573-3079",
+		"page": "378-383",
+		"title": "Osmotic Computing and Related Challenges: A Survey",
+		"author": [
+			{
+				"family": "Kaur",
+				"given": "Akashdeep"
+			},
+			{
+				"family": "Kumar",
+				"given": "Rajesh"
+			},
+			{
+				"family": "Saxena",
+				"given": "Sharad"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					11
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/4940020/items/4LI7GYWE",
+		"type": "paper-conference",
+		"abstract": "Internet of Things (IoT) systems are complex and multifaceted, and the design of their architectures needs to consider many aspects at a time. Design decisions concern, for instance, the modeling of software components and their interconnections, as well as where to deploy the components within the available hardware infrastructure in the Edge-Cloud continuum. A relevant and challenging task, in this context, is to identify optimal deployment models due to all the different aspects involved, such as extra-functional requirements of the system, heterogeneity of the hardware resources concerning their processing and storage capabilities, and constraints like legal issues and operational cost limits. To gain insights about the deployment decisions concerning IoT systems in practice, and the factors that influence those decisions, we report about an industrial survey we conducted with 66 IoT architects from 18 countries across the world. Each participant filled in a questionnaire that comprises 15 questions. By analyzing the collected data, we have two main findings: (i) architects rely on the Cloud more than the Edge for deploying the software components of IoT systems, in the majority of the IoT application domains; and (ii) the main factors driving deployment decisions are four: reliability, performance, security, and cost.",
+		"container-title": "2020 IEEE International Conference on Software Architecture Companion (ICSA-C)",
+		"DOI": "10.1109/ICSA-C50368.2020.00012",
+		"page": "17-24",
+		"title": "On the Deployment of IoT Systems: An Industrial Survey",
+		"author": [
+			{
+				"family": "Alkhabbas",
+				"given": "Fahed"
+			},
+			{
+				"family": "Spalazzese",
+				"given": "Romina"
+			},
+			{
+				"family": "Cerioli",
+				"given": "Maura"
+			},
+			{
+				"family": "Leotta",
+				"given": "Maurizio"
+			},
+			{
+				"family": "Reggio",
+				"given": "Gianna"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					3
+				]
+			]
+		}
+	}
+]

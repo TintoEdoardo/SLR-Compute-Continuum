@@ -1,0 +1,1926 @@
+[
+  {
+    "title": "Understanding the challenges and novel architectural models of multi-cloud native applications \u2013 a systematic literature review",
+    "evaluation": "22.000"
+  },
+  {
+    "title": "A Survey on the Use of Lightweight Virtualization in I4.0 Manufacturing Environments",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Self-adaptive architectures in IoT systems: a systematic literature review",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Orchestration in the Cloud-to-Things compute continuum: taxonomy, survey and future directions",
+    "evaluation": "12.500"
+  },
+  {
+    "title": "Edge computing: A grounded theory study",
+    "evaluation": "12.000"
+  },
+  {
+    "title": "A Survey on the Security and the Evolution of Osmotic and Catalytic Computing for 5G Networks",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A survey on nature-inspired techniques for computation offloading and service placement in emerging edge technologies",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey on Collaborative DNN Inference for Edge Intelligence",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "Performing Systematic Review on Personalized Menu Scheduling Using PRISMA Guidelines",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey on 3D Hand Detection and Tracking Algorithms for Human Computer Interfacing",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey on Text Processing Using Deep Learning Techniques",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey on Smart Home Application: The State-of-the-Art and Future Research Trends",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey on Controllable Abstractive Text Summarization",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey of Recent Techniques in Computational Drug Repurposing",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Survey on Currency Recognition Method",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "Simulation, Perception, and Prediction of the Spread of COVID - 19 on Cellular Automata Models: A Survey",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "A Systematic Review on Security Mechanism of Electric Vehicles",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "Secure FaaS orchestration in the fog: how far are we?",
+    "evaluation": "2.000"
+  },
+  {
+    "title": "Evaluating virtualization for fog monitoring of real-time applications in mixed-criticality systems",
+    "evaluation": "1.800"
+  },
+  {
+    "title": "MiCADO-Edge: Towards an Application-level Orchestrator for the Cloud-to-Edge Computing Continuum",
+    "evaluation": "1.500"
+  },
+  {
+    "title": "An Innovative Blockchain-Based Orchestrator for Osmotic Computing",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Resource Allocation Challenges in the Cloud and Edge Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Serverless Workflows for Containerised Applications in the Cloud Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Robust-PAC time-critical workflow offloading in edge-to-cloud continuum among heterogeneous resources",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Infrastructure Manager: A TOSCA-Based Orchestrator for the Computing Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Dynamic scheduling of heterogeneous resources across mobile edge-cloud continuum using fruit fly-based simulated annealing optimization scheme",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "The Cloud Continuum for Military Deployable Networks: Challenges and Opportunities",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Applications of MLOps in the Cognitive Cloud Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "pacce: Perl algorithm to compute continuum and equivalent widths",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Towards Characterization of Edge-Cloud Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Cloud-Network Slicing MANO Towards an Efficient IoT-Cloud Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Availability model for edge-fog-cloud continuum: an evaluation of an end-to-end infrastructure of intelligent traffic management service",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Cloud Computing Continuum Research Topics and Challenges. A Multi-source Analysis",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "A Review of Monitoring Probes for Cloud Computing Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Distributed Computing Continuum Systems",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "MESDD: A Distributed Geofence-Based Discovery Method for the Computing Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "MSN: A Playground Framework for Design and Evaluation of MicroServices-Based sdN Controller",
+    "evaluation": "0.800"
+  },
+  {
+    "title": "The Impact of Encoding and Transport for Massive Real-time IoT Data on Edge Resource Consumption",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "RapidEELS: machine learning for denoising and classification in rapid acquisition electron energy loss spectroscopy",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "A container-based workflow for distributed training of deep learning algorithms in HPC clusters",
+    "evaluation": "0.600"
+  },
+  {
+    "title": "How to manage massive spatiotemporal dataset from stationary and non-stationary sensors in commercial DBMS?",
+    "evaluation": "0.500"
+  },
+  {
+    "title": "Near real-time optimization of fog service placement for responsive edge computing",
+    "evaluation": "0.300"
+  },
+  {
+    "title": "Advanced Information Networking and Applications: Proceedings of the 37th International Conference on Advanced Information Networking and Applications (AINA-2023), Volume 3",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Artificial Intelligence Applications and Innovations. AIAI 2023 IFIP WG 12.5 International Workshops: MHDW 2023, 5G-PINE 2023, \u0391\u0399BMG 2023, and VAA-CP-EB 2023, Le\u00f3n, Spain, June 14\u201317, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advanced Information Networking and Applications: Proceedings of the 35th International Conference on Advanced Information Networking and Applications (AINA-2021), Volume 3",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented and Cloud Computing: 10th IFIP WG 6.12 European Conference, ESOCC 2023, Larnaca, Cyprus, October 24\u201325, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Beyond Edge Computing: Swarm Computing and Ad-Hoc Edge Clouds",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Next Generation Task Offloading Techniques in Evolving Computing Paradigms: Comparative Analysis, Current Challenges, and Future Research Perspectives",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Euro-Par 2021: Parallel Processing: 27th International Conference on Parallel and Distributed Computing, Lisbon, Portugal, September 1\u20133, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Computing, Informatics, Networking and Cybersecurity: A Book Honoring Professor Mohammad S. Obaidat\u2019s Significant Scientific Contributions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Product-Focused Software Process Improvement: 23rd International Conference, PROFES 2022, Jyv\u00e4skyl\u00e4, Finland, November 21\u201323, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Software Architecture. ECSA 2022 Tracks and Workshops: Prague, Czech Republic, September 19\u201323, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advanced Information Systems Engineering Workshops: CAiSE 2021 International Workshops, Melbourne, VIC, Australia, June 28 \u2013 July 2, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Research Challenges in Information Science: Information Science and the Connected World: 17th International Conference, RCIS 2023, Corfu, Greece, May 23\u201326, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advanced Communication and Intelligent Systems: First International Conference, ICACIS 2022, Virtual Event, October 20-21, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Web Engineering: 23rd International Conference, ICWE 2023, Alicante, Spain, June 6\u20139, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Innovations in Electrical and Electronic Engineering: Proceedings of ICEEE 2022, Volume 2",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented Computing: 20th International Conference, ICSOC 2022, Seville, Spain, November 29 \u2013 December 2, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Technologies and Applications for Big Data Value",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented Computing \u2013 ICSOC 2022 Workshops: ASOCA, AI-PA, FMCIoT, WESOACS 2022, Sevilla, Spain, November 29 \u2013 December 2, 2022 Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Euro-Par 2023: Parallel Processing: 29th International Conference on Parallel and Distributed Computing, Limassol, Cyprus, August 28 \u2013 September 1, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Springer Handbook of Augmented Reality",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Web and Intelligent Information Systems: 19th International Conference, MobiWIS 2023, Marrakech, Morocco, August 14\u201316, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented Computing: 21st International Conference, ICSOC 2023, Rome, Italy, November 28 \u2013 December 1, 2023, Proceedings, Part II",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "ICWE 2021 Workshops: ICWE 2021 International Workshops, BECS and Invited Papers, Biarritz, France, May 18\u201321, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Internet of Things: 5th The Global IoT Summit, GIoTS 2022, Dublin, Ireland, June 20\u201323, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Global Challenges for a Sustainable Society: EURECA-PRO The European University for Responsible Consumption and Production",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computer Security. ESORICS 2022 International Workshops: CyberICPS 2022, SECPRE 2022, SPOSE 2022, CPS4CIP 2022, CDT&SECOMANE 2022, EIS 2022, and SecAssure 2022, Copenhagen, Denmark, September 26\u201330, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Highlights in Practical Applications of Agents, Multi-Agent Systems, and Complex Systems Simulation. The PAAMS Collection: International Workshops of PAAMS 2022, L'Aquila, Italy, July 13\u201315, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "High Performance Computing: ISC High Performance 2023 International Workshops, Hamburg, Germany, May 21\u201325, 2023, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Distributed Applications and Interoperable Systems: 21st IFIP WG 6.1 International Conference, DAIS 2021, Held as Part of the 16th International Federated Conference on Distributed Computing Techniques, DisCoTec 2021, Valletta, Malta, June 14\u201318, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Computing: Proceedings of the 2022 Computing Conference, Volume 1",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Evolution of Pervasive Information Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Monetization of Technical Data: Innovations from Industry and Research",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Task scheduling in the internet of things: challenges, solutions, and future trends",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Deep Learning Techniques for IoT Security and Privacy",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Declarative Osmotic Application Placement",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Trends in Sustainable Smart Cities and Territories",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems and Applications: Proceedings of the 2022 Intelligent Systems Conference (IntelliSys) Volume 2",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Innovations in Bio-Inspired Computing and Applications: Proceedings of the 12th International Conference on Innovations in Bio-Inspired Computing and Applications (IBICA 2021) Held During December 16\u201318, 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning and Big Data Analytics (Proceedings of International Conference on Machine Learning and Big Data Analytics (ICMLBDA) 2021)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Decision Support Systems XIII. Decision Support Systems in An Uncertain World: The Contribution of Digital Twins: 9th International Conference on Decision Support System Technology, ICDSST 2023, Albi, France, May 30 \u2013 June 1, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advanced Information Networking and Applications: Proceedings of the 36th International Conference on Advanced Information Networking and Applications (AINA-2022), Volume 3",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Distributed Applications and Interoperable Systems: 23rd IFIP WG 6.1 International Conference, DAIS 2023, Held as Part of the 18th International Federated Conference on Distributed Computing Techniques, DisCoTec 2023, Lisbon, Portugal, June 19-23, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "HCI International 2022 Posters: 24th International Conference on Human-Computer Interaction, HCII 2022, Virtual Event, June 26 \u2013 July 1, 2022, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Software Engineering and Formal Methods. SEFM 2021 Collocated Workshops: CIFMA, CoSim-CPS, OpenCERT, ASYDE, Virtual Event, December 6\u201310, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Handbook of Dynamic Data Driven Applications Systems: Volume 2",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Digital Twin",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Computing: Proceedings of the 2021 Computing Conference, Volume 3",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Leveraging Applications of Formal Methods, Verification and Validation. Adaptation and Learning: 11th International Symposium, ISoLA 2022, Rhodes, Greece, October 22\u201330, 2022, Proceedings, Part III",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Information and Communication: Proceedings of the 2022 Future of Information and Communication Conference (FICC), Volume 2",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Service-Oriented and Cloud Computing: International Workshops of ESOCC 2022, Wittenberg, Germany, March 22\u201324, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems and Applications: Proceedings of the 2021 Intelligent Systems Conference (IntelliSys) Volume 3",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems Design and Applications: 22nd International Conference on Intelligent Systems Design and Applications (ISDA 2022) Held December 12-14, 2022 - Volume 1",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Embedded Computer Systems: Architectures, Modeling, and Simulation: 23rd International Conference, SAMOS 2023, Samos, Greece, July 2\u20136, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Sustainable Systems: Proceedings of ICISS 2023",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Artificial Intelligence for Cloud and Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Economics of Grids, Clouds, Systems, and Services: 18th International Conference, GECON 2021, Virtual Event, September 21\u201323, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Embedded Computer Systems: Architectures, Modeling, and Simulation: 22nd International Conference, SAMOS 2022, Samos, Greece, July 3\u20137, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems Design and Applications: 21st International Conference on Intelligent Systems Design and Applications (ISDA 2021) Held During December 13\u201315, 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Distributed Computing and Artificial Intelligence, 19th International Conference",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Federated Learning Systems: Towards Next-Generation AI",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented Computing: 16th Symposium and Summer School, SummerSOC 2022, Hersonissos, Crete, Greece, July 3\u20139, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multimedia Cloud Computing Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "State-of-the-Art Load Balancing Algorithms for Mist-Fog-Cloud Assisted Paradigm: A Review and Future Directions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Security Issues in Fog Computing from 5G to 6G: Architectures, Applications and Solutions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Future Intent-Based Networking: On the QoS Robust and Energy Efficient Heterogeneous Software Defined Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Extended Reality: International Conference, XR Salento 2023, Lecce, Italy, September 6-9, 2023, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computer Security. ESORICS 2021 International Workshops: CyberICPS, SECPRE, ADIoT, SPOSE, CPS4CIP, and CDT&SECOMANE, Darmstadt, Germany, October 4\u20138, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Building Enterprise IoT Solutions with Eclipse IoT Technologies: An Open Source Approach to Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Research in Computer Science and Its Applications: 11th International Conference, CNRIA 2021, Virtual Event, June 17-19, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Software Ecosystems: Tooling and Analytics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Semantic Web: ESWC 2022 Satellite Events: Hersonissos, Crete, Greece, May 29 \u2013 June 2, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Inventive Communication and Computational Technologies: Proceedings of ICICCT 2019",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Edge Intelligence: From Theory to Practice",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Fog Computing Complete Review: Concepts, Trends, Architectures, Technologies, Simulators, Security Issues, Applications, and Open Research Fields",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Analysis of Mobile Communication Network Architecture Based on SDN",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Proceedings of Seventh International Congress on Information and Communication Technology: ICICT 2022, London, Volume 1",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Embedded Computer Systems: Architectures, Modeling, and Simulation: 21st International Conference, SAMOS 2021, Virtual Event, July 4\u20138, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Practical Aspects of Declarative Languages: 24th International Symposium, PADL 2022, Philadelphia, PA, USA, January 17\u201318, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Applications of Computational Methods in Manufacturing and Product Design: Select Proceedings of IPDIMS 2020",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Proceedings of the Future Technologies Conference (FTC) 2022, Volume 1",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computational Science \u2013 ICCS 2021: 21st International Conference, Krakow, Poland, June 16\u201318, 2021, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Artificial Intelligence and Sustainable Computing: Proceedings of ICSISCET 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "High Performance Computing: ISC High Performance Digital 2021 International Workshops, Frankfurt am Main, Germany, June 24 \u2013 July 2, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Emerging Networking in the Digital Transformation Age: Approaches, Protocols, Platforms, Best Practices, and Energy Efficiency",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Internet Security: 5th International Symposium, MobiSec 2021, Jeju Island, South Korea, October 7\u20139, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Cybersecurity Management",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Declarative Application Management in the Fog: A Bacteria-Inspired Decentralised Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cooperative and Distributed Intelligent Computation in Fog Computing: Concepts, Architectures, and Frameworks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Smart Contracts for Service-Level Agreements in Edge-to-Cloud Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Editorial",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Business Intelligence and Information Technology: Proceedings of the International Conference on Business Intelligence and Information Technology BIIT 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A conceptual architecture for simulating blockchain-based IoT ecosystems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cloud Computing and Services Science: 11th International Conference, CLOSER 2021, Virtual Event, April 28\u201330, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented Computing: 21st International Conference, ICSOC 2023, Rome, Italy, November 28 \u2013 December 1, 2023, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Networks and Management: 11th EAI International Conference, MONAMI 2021, Virtual Event, October 27-29, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advanced Information Systems Engineering: 35th International Conference, CAiSE 2023, Zaragoza, Spain, June 12\u201316, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Setting the Scene: Cloud, Edge, Mobile and Ad-hoc Computing Context",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning, Optimization, and Data Science: 8th International Conference, LOD 2022, Certosa di Pontignano, Italy, September 18\u201322, 2022, Revised Selected Papers, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Leveraging Applications of Formal Methods, Verification and Validation. Practice: 11th International Symposium, ISoLA 2022, Rhodes, Greece, October 22\u201330, 2022, Proceedings, Part IV",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Information and Database Systems: 15th Asian Conference, ACIIDS 2023, Phuket, Thailand, July 24\u201326, 2023, Proceedings, Part II",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Big Data Analytics in Astronomy, Science, and Engineering: 10th International Conference on Big Data Analytics, BDA 2022, Aizu, Japan, December 5\u20137, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Putting Intelligence into Things: An Overview of Current Architectures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Interactive Collaborative Robotics: 8th International Conference, ICR 2023, Baku, Azerbaijan, October 25\u201329, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Blockchain and Trustworthy Systems: First International Conference, BlockSys 2019, Guangzhou, China, December 7\u20138, 2019, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Disruptive Technologies for Big Data and Cloud Applications: Proceedings of ICBDCC 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile and Ubiquitous Systems: Computing, Networking and Services: 18th EAI International Conference, MobiQuitous 2021, Virtual Event, November 8-11, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Benchmarking, Measuring, and Optimizing: 14th BenchCouncil International Symposium, Bench 2022, Virtual Event, November 7-9, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Distributed Computing and Machine Learning: Proceedings of ICADCML 2022",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems Design and Applications: 22nd International Conference on Intelligent Systems Design and Applications (ISDA 2022) Held December 12-14, 2022 - Volume 4",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Sustainable Development through Machine Learning, AI and IoT: First International Conference, ICSD 2023, Delhi, India, July 15\u201316, 2023, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Economics of Grids, Clouds, Systems, and Services: 19th International Conference, GECON 2022, Izola, Slovenia, September 13\u201315, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Software Architecture: 17th European Conference, ECSA 2023, Istanbul, Turkey, September 18\u201322, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Towards IoT Processes on the Edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems Design and Applications: 22nd International Conference on Intelligent Systems Design and Applications (ISDA 2022) Held December 12-14, 2022 - Volume 3",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Optimising QoS-Assurance, Resource Usage and Cost of Fog Application Deployments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Drone Data Analytics in Aerial Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Systems Design and Applications: 22nd International Conference on Intelligent Systems Design and Applications (ISDA 2022) Held December 12-14, 2022 - Volume 2",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computational Science \u2013 ICCS 2023: 23rd International Conference, Prague, Czech Republic, July 3\u20135, 2023, Proceedings, Part III",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Resilient and Responsible Smart Cities: The Path to Future Resiliency",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "IoT-based Intelligent Modelling for Environmental and Ecological Engineering: IoT Next Generation EcoAgro Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Energy Efficient Computation Offloading in Mobile Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Data-Aware Service Placement in the Cloud-IoT Continuum",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Big-Data-Analytics in Astronomy, Science, and Engineering: 9th International Conference on Big Data Analytics, BDA 2021, Virtual Event, December 7\u20139, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Artificial Intelligence in China: Proceedings of the 4th International Conference on Artificial Intelligence in China",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Web Information Systems Engineering \u2013 WISE 2022: 23rd International Conference, Biarritz, France, November 1\u20133, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Human Centered Computing: Proceedings of HUMAN 2023",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Microservices: The Evolution and Extinction of Web Services?",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advanced Computing and Intelligent Technologies: Proceedings of ICACIT 2022",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multimedia Cloud: Designing a Special-Purpose Cloud Platform for Interactive Multimedia Streaming",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Green Application Placement in the Cloud-IoT Continuum",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Service-Oriented Computing: 17th Symposium and Summer School, SummerSOC 2023, Heraklion, Crete, Greece, June 25 \u2013 July 1, 2023, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Business Process Management Forum: BPM 2023 Forum, Utrecht, The Netherlands, September 11\u201315, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Predictive Analytics in Cloud, Fog, and Edge Computing: Perspectives and Practices of Blockchain, IoT, and 5G",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "IoT Edge Solutions for Cognitive Buildings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Meta-heuristic Based Hybrid Service Placement Strategies for Two-Level Fog Computing Architecture",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Human-Computer Interaction. Theoretical Approaches and Design Methods: Thematic Area, HCI 2022, Held as Part of the 24th HCI International Conference, HCII 2022, Virtual Event, June 26\u2013July 1, 2022, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Designing Data Spaces: The Ecosystem Approach to Competitive Advantage",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Algorithms and Architectures for Parallel Processing: 19th International Conference, ICA3PP 2019, Melbourne, VIC, Australia, December 9\u201311, 2019, Proceedings, Part II",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Collaborative Computing: Networking, Applications and Worksharing: 18th EAI International Conference, CollaborateCom 2022, Hangzhou, China, October 15-16, 2022, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Digital Manufacturing Systems: Technologies, Business Models, and Adoption",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Database and Expert Systems Applications: 32nd International Conference, DEXA 2021, Virtual Event, September 27\u201330, 2021, Proceedings, Part II",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cognitive Radio Oriented Wireless Networks and Wireless Internet: 16th EAI International Conference, CROWNCOM 2021, Virtual Event, December 11, 2021, and 14th EAI International Conference, WiCON 2021, Virtual Event, November 9, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Introduction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Transportation Systems: Theory and Practice",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Artificial Intelligence and Hardware Accelerators",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Distributed Computing and Artificial Intelligence, Special Sessions I, 20th International Conference",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mining, Analyzing, and Evolving Data-Intensive Software Ecosystems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "ICT Innovations 2021. Digital Transformation: 13th International Conference, ICT Innovations 2021, Virtual Event, September 27\u201328, 2021, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Deployment and Operation of Complex Software in Heterogeneous Execution Environments: The SODALITE Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Information and Database Systems: 15th Asian Conference, ACIIDS 2023, Phuket, Thailand, July 24\u201326, 2023, Proceedings, Part I",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Data and Applications Security and Privacy XXXVI: 36th Annual IFIP WG 11.3 Conference, DBSec 2022, Newark, NJ, USA, July 18\u201320, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Offloading Coalition Formation for Scheduling Scientific Workflow Ensembles in Fog Environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cybersecurity in Emerging Digital Era: First International Conference, ICCEDE 2020, Greater Noida, India, October 9-10, 2020, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "SODALITE@RT: Orchestrating Applications on Cloud-Edge Infrastructures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Wireless Middleware, Operating Systems and Applications: 11th EAI International Conference, MOBILWARE 2022, Virtual Event, December 28-29, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Resource Allocation in the Integration of IoT, Fog, and Cloud Computing: State-of-the-Art and Open Challenges",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Neural Basis of Mentalizing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Digital Playbook: A Practitioner\u2019s Guide to Smart, Connected Products and Solutions with AIoT",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Fog-Enabled Smart Campus: Architecture and Challenges",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Orchestration from the Cloud to the Edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Serverless Data Pipelines for IoT Data Analytics: A Cloud Vendors Perspective and Solutions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Intelligent Distributed Computing XV",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Proceedings of the 13th International Conference on Soft Computing and Pattern Recognition (SoCPaR 2021)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Analysis of Nuclear Containment Structures; Introduction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The New Normal: Cybersecurity and Associated Drivers for a Post-COVID-19 Cloud",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Hybrid Artificial Intelligent Systems: 17th International Conference, HAIS 2022, Salamanca, Spain, September 5\u20137, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Algorithmic Aspects of Cloud Computing: 7th International Symposium, ALGOCLOUD 2022, Potsdam, Germany, September 6, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Semantic Web \u2013 ISWC 2023: 22nd International Semantic Web Conference, Athens, Greece, November 6\u201310, 2023, Proceedings, Part II",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Recent Challenges in Intelligent Information and Database Systems: 15th Asian Conference, ACIIDS 2023, Phuket, Thailand, July 24\u201326, 2023, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Augmented Reality Application Based on Information Barcoding",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Towards a Wireless Connected World: Achievements and New Technologies",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Robot: Motion Control and Path Planning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Social Edge Computing: Empowering Human-Centric Edge Computing, Learning and Intelligence",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "State of the Art of Urban Digital Twin Platforms",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Elements of Big Data Value: Foundations of the Research and Innovation Ecosystem",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Kubernetes as a Standard Container Orchestrator - A Bibliometric Analysis",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "What Is IoT?",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi-layer edge resource placement optimization for factories",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "GeNeDis 2022: Computational Biology and Bioinformatics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Quality of Experience Illustrator User Interface for Cloud Provider Recommendations",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "QR Based Paperless Out-Patient Health and Consultation Records Sharing System",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Review of Privacy-Preserving Federated Learning for the Internet-of-Things",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Asymptotic Safety Scenario in Quantum Gravity",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Testing mechanistic explanations for mammalian predator responses to habitat edges",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Fluidware: An Approach Towards Adaptive and Scalable Programming of the IoT",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Data-Aware Application Placement and Management in the Cloud-IoT Continuum",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Optimized fog community framework with advanced genetic algorithm for enhanced performance dynamics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Advances in Automation, Mechanical and Design Engineering: SAMDE 2022",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Heterogeneous Data Management, Polystores, and Analytics for Healthcare: VLDB Workshops, Poly 2022 and DMAH 2022, Virtual Event, September 9, 2022, Revised Selected Papers",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Applications in Electronics Pervading Industry, Environment and Society: APPLEPIES 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "On motion analysis and elastic response of floating offshore wind turbines",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Tactile Internet in Internet of Things Ecosystems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Parameterization and Explicit Modeling of Cloud Microphysics: Approaches, Challenges, and Future Directions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Notes on ensembles of IoT, network functions and clouds for service-oriented computing and applications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Methods and Applications for Modeling and Simulation of Complex Systems: 20th Asian Simulation Conference, AsiaSim 2021, Virtual Event, November 17\u201320, 2021, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An osmotic approach-based dynamic deadline-aware task offloading in edge\u2013fog\u2013cloud computing environment",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Edge and Fog Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Streamlining XR Application Deployment with a Localized Docker Registry at the Edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Guest editorial for the special section on MODELS 2020",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Physical artificial intelligence (PAI): the next-generation artificial intelligence",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Edge Computing \u2013 EDGE 2022: 6th International Conference, Held as Part of the Services Conference Federation, SCF 2022, Honolulu, HI, USA, December 10\u201314, 2022, Proceedings",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Workload Allocation in IoT-Fog-Cloud Architecture Using a Multi-Objective Genetic Algorithm",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "K-AGRUED: A Container Autoscaling Technique for Cloud-based Web Applications in Kubernetes Using Attention-based GRU Encoder-Decoder",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Edge computing: current trends, research challenges and future directions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A low-cost radiation detection system to monitor radioactive environments by unmanned vehicles",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Reinforcement Learning-Based Resource Allocation in Fog Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Measuring the Business Value of Cloud Computing: Emerging Paradigms and Future Directions for Research",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "FLAG Review 2019: Flavour Lattice Averaging Group (FLAG)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Review of lattice results concerning low-energy particle physics: Flavour Lattice Averaging Group (FLAG)",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Huawei and International Data Spaces",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Implementing a Blockchain-Based Security System Applied to IoT",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "AI Quality Engineering for Machine Learning Based IoT Data Processing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Extending reference architecture of big data systems towards machine learning in edge computing environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Introduction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Blockchain and Emerging Distributed Ledger Technologies for Decentralized Multi-robot Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cognitive Cloud: The Definition",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Rapid Review on the Application of Unmanned Aerial Vehicles in Construction Safety",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Mobile Governance in Indian Urban Local Bodies: An Exploratory Study",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "FLAG Review 2021",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Network of Things Engineering (NoTE) Lab",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Network Tomography with Partial Topology Knowledge and Dynamic Routing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Efficient Deep Learning Approach Using Improved Generative Adversarial Networks for Incomplete Information Completion of Self-driving Vehicles",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Federated unsupervised representation learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "WebAssembly as an Enabler for Next Generation Serverless Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Review on Cloud-Based Smart Applications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Temporal variation in nest predation risk along habitat edges between grassland and secondary forest in Central Europe",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Distributed and Decentralized Orchestration of Containers on Edge Clouds",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Data 101",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Using Dynamic Data Driven Cyberinfrastructure for Next Generation Disaster Intelligence",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Event-Driven Serverless Pipelines for Video Coding and Quality Metrics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Single-cell RNA sequencing to track novel perspectives in HSC heterogeneity",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Automatic Bidirectional Conversion of Audio and Text: A Review from Past Research",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Review on Sentiment Analysis Using Supervised Machine Learning Techniques",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Continuum Statistics of the Airy2 Process",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Sustainability modelling and green energy optimisation in microgrid powered distributed FogMicroDataCenters in rural area",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Introduction on Wireless Sensor Networks Issues and Challenges in Current Era",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Opportunistic Deployment of Distributed Edge Clouds for Latency-Critical Applications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Introduction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Secondary Pulmonary Tuberculosis Identification Via pseudo-Zernike Moment and Deep Stacked Sparse Autoencoder",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Determination and Finite Element Validation of the WYPIWYG Strain Energy of Superficial Fascia from Experimental Data",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "SpecK: Composition of Stream Processing Applications over Fog Environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Inclusive Review on Extractive and Abstractive Text Summarization: Taxonomy, Datasets, Techniques and Challenges",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Vacuum correlators at short distances from lattice QCD",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Higher-order topological states in photonic kagome crystals with long-range interactions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Quantum signal transmission through a single-qubit chain",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Digital Thread in Smart Manufacturing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A New Human-Centric Computing Age at Edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Shaping IoT Systems Together: The User-System Mixed-Initiative Paradigm and Its Challenges",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Computational Analysis Methods in Atomistic Modeling of Crystals",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Validated Performance Model for Micro-services Placement in Fog Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Redundant Virtual Machine Placement in Mobile Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Using Dynamic Data-Driven Cyberinfrastructure for Next-Generation Wildland Fire Intelligence",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Future Lies with Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Evolution of MANO Towards the Cloud-Native Paradigm for the Edge Computing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Retrofitting Industrial Machines with WebAssembly on the Edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Detailed Review of Recent Advancements in Assistive Technologies for Blind People",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Stock Market Price Trend Prediction \u2013 A Comprehensive Review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Review on Using Predictive Analytics to Determine the Severity of Anaphylaxis",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "DL vs. Traditional ML Algorithms to Recognize Arabic Handwriting Script: A Review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Review on Machine Learning and Blockchain Technology in E-Healthcare",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Dependence of Pore-to-Core Up-scaled Reaction Rate on Flow Rate in Porous Media",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Dependence of Pore-to-Core Up-scaled Reaction Rate on Flow Rate in Porous Media",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Management Architecture for IoT Smart Solutions: Design and Implementation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Chapter 1: Introduction and Overview",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Edge Computing and Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A New Blockchain Ecosystem for Trusted, Traceable and Transparent Ontological Knowledge Management: Position Paper",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Rapid Review on Ensemble Algorithms for COVID-19 Classification Using Image-Based Exams",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The History of the GPU - Eras and Environment",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Fake Review Prediction Using Machine Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning Approach for Detection of Mental Health",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enhancing Epidemiological Surveillance Systems Using Dynamic Modeling: A Scoping Review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Path Planning Techniques for Mobile Robots: A Review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning and Image Processing Techniques for Covid-19 Detection: A Review",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Dynamic Data-Driven Application Systems for Reservoir Simulation-Based Optimization: Lessons Learned and Future Trends",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Step-To-Step Guide to Write a Quality Research Article",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "New Editor \u2013 2018",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "What makes a planet habitable?",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Observables Processing for the Helioseismic and Magnetic Imager Instrument on the Solar Dynamics Observatory",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Selected Aspects of Non orthogonal Multiple Access for Future Wireless Communications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "SearchOL: An Information Gathering Tool",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Investigative Approach on the Prediction of Isocitrate Dehydrogenase (IDH1) Mutations and Co-deletion of 1p19q in Glioma Brain Tumors",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An optimized environment-adaptive computation offloading strategy for real-time cross-camera task in edge computing networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Extracting the Distinctive Features of Opinion Spams Using Logistic Regression",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Dimensions of Trust in Cyber Physical Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Addressing Sustainable Supply Chain Network Using Stackelberg Game",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Witten index for noncompact dynamics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Minimize average tasks processing time in satellite mobile edge computing systems via a deep reinforcement learning method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Philosophy of Evolutionary Biology",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Territorial Design and Vehicle Routing Problem Applied to the Population Census as a Case Study",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Application of Artificial Intelligence in Mental Health",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Risk Management in the Clinical Pathology Laboratory: A Bayesian Network Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Implementation of Structural Topic Modelling for Abstract Mining from CORD \u2013 19",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Industry and Standardization Aspects",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Chapter 4: Cloud",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Overview of Blockchain-Based Seafood Supply Chain Management",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Application of VIKOR Method for Green Postal Sustainable Service Design",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Estimation for Bitcoin Price Volatility",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Towards a New Architecture: Multi-agent Based Cloud-Fog-Edge Computing and Digital Twin for Smart Agriculture",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Analyzing the Critical Success Factors of Lean System Implementation in India Post Using DEMATEL Method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "DISTiL: DIStributed Industrial Computing Environment for Trustworthy DigiTaL Workflows: A Design Perspective",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Malignancy Detection in Breast Histo-Images Using Multi-layer Perceptron",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Context-Aware Digital Twins to Support Software Management at the Edge",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Privacy-Leaking and Steganographic Threats in Wireless Connected Environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning-Based Approach to Analyze Students\u2019 Behaviour in Digital Learning Systems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Design and Implementation of Edge Detection Algorithms Using FPGA",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Meta-analytical Comparison of Naive Bayes and Random Forest for Software Defect Prediction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "India Post Service Facility Layout Design Selection and Evaluation Using MCDM Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Application of Combined SWOT and AHP Analysis to Assess the Virtual Reality and Select the Priority Factors for Education",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Evaluation of Semantic Parsing Frameworks for Automated Knowledge Base Construction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Implementation Analysis for the Applications of Warehouse Model Under Linear Integer Problems",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Ergonomics Assessment in India Post Manual Sorting Centre Using EDAS \u2013 A MCDM Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Modeling Context-Aware Events and Responses in an IoT Environment",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Numerical study of the anisotropy of wave responses from a fractured reservoir using the grid-characteristic method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Evolution of Mentalizing in Humans and Other Primates",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Malware Analysis Using Machine Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Trade Management System Using R3 Corda Blockchain",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Apartment Waste Disposal Sustainable Facility Location Using ENTROPY Method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Predicting Taxi Travel Time Using Machine Learning Techniques Considering Weekend and Holidays",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "SP2P-MAKA: Smart Contract Based Secure P2P Mutual Authentication Key Agreement Protocol for Intelligent Energy System",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Classification of Fungi Infected Annona Squamosa Plant Using CNN Architectures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "RePI: Research Paper Impact Analysis",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning Models for Toxicity Prediction in Chemotherapy",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Code Vectorization and Sequence of Accesses Strategies for Monolith Microservices Identification",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Performance Evaluation of Signature Based and Anomaly Based Techniques for Intrusion Detection",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Elastic Model for Virtual Computing Labs Using Timed Petri Nets",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Indian Postal Service Quality Assessment Using Graph Theoretic Approach \u2013 A Quantitative Decision-Making Tool",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Detection of Similarity Between Business Process Models with the Integration of Semantics in Similarity Measures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "IISCAN: Index-Based Incremental Structural Clustering Technique for Billion-Edge Graphs",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Deep Learning Based Natural Language Processing Approach for Detecting SQL Injection Attack",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Detection of COVID-19 in Computed Tomography Images Using Deep Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Process Automation with Digital Robots Under Smart University Concept",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enhancing Rental Bike Count and Availability Prediction Using Regression Modelling",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Forecasting of COVID-19 Cases in INDIA Using ARIMA and AR Time-Series Algorithm",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Sustainable Green Supplier Selection Using CRITIC Method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "DCM: Dynamic Client-Server Code Migration",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Genetic Algorithm to Solve the Order Picking Problem in a Warehouse with Systematic Item Distribution",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Image Compression-Encryption Scheme Based on SPIHT Coding and 2D Beta Chaotic Map",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Dynamic Job Shop Scheduling in an Industrial Assembly Environment Using Various Reinforcement Learning Techniques",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Time Series Forecast Applied to Electricity Consumption",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Gated Recurrent Unit and Long Short-Term Memory Based Hybrid Intrusion Detection System",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Concept for QoS Management in SOA-Based SoS Architectures",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Integration of Text and Graph-Based Features for Depression Detection Using Visibility Graph",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Detecting Urgent Instructor Intervention Need in Learning Forums with a Domain Adaptation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Continuous Authentication of Tablet Users Using Raw Swipe Characteristics: Tree Based Approaches",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Efficient Twitter Sentiment Analysis System Using Deep Learning Algorithm",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Alzheimer Disease Investigation in Resting-State fMRI Images Using Local Coherence Measure",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Euler Transformation Axis Method for Online Virtual Trail Room Using Fusion of Images",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "LSTM-Based Model for Sanskrit to English Translation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Bibliometric Global Overview of COVID-19 Vaccination",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Early Stage Diabetes Risk Prediction via Machine Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Stance Detection on Vietnamese Social Media",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Tell Me What that Means to You: Small-Story Narratives in Technology Adoption",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Efficient Thyroid Disease Prediction System \u2013 A Study",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "ML Classifier Using Multiple Neural Networks Trained by Linear Programming",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Pre and Post Operative Brain Tumor Segmentation and Classification for Prolonged Survival",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enhancing the Credit Card Fraud Detection Using Decision Tree and Adaptive Boosting Techniques",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Medical Decision Making Based 5D Cardiac MRI Segmentation Tools",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Combining Clustering and Maturity Models to Provide Better Decisions to Elevate Maturity Level",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Hybrid Adaptive Method for Intrusion Detection with Enhanced Feature Elimination in Ensemble Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Comparing SVM and Random Forest in Patterned Gesture Phase Recognition in Visual Sequences",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enhanced Zero Suffix Method for Multi-objective Bulk Transportation Problem",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Comparative Analysis of Prediction of Brain Stroke Using AIML",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Manual Approach for Multimedia File Carving",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Performance Evaluation of Manufacturing Product Layout Design Using PROMETHEE II - MCDM Method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Prediction Analytics of Hyperledger Blockchain Data in B2B Finance Applications",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Unsupervised Manipulation Detection Scheme for Insider Trading",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "NadERA: A Novel Framework Achieving Reduced Distress Response Time by Leveraging Emotion Recognition from Audio",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Real Time Detection and Tracking in Multi Speakers Video Conferencing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Quality Evaluation of Cloud Services Using MCDM Techniques: A Comparative Analysis",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Comparative Data Oversampling Techniques with Deep Learning Algorithms for Credit Card Fraud Detection",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Content-Based Long Text Documents Classification Using Bayesian Approach for a Resource-Poor Language Urdu",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "KCReqRec: A Knowledge Centric Approach for Semantically Inclined Requirement Recommendation with Micro Requirement Mapping Using Hybrid Learning Models",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Retail Demand Forecasting for 1 Million Products",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Improved Model for Semantic Segmentation of Brain Lesions Using CNN 3D",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Comparative Analysis of Machine Learning Models for Customer Segmentation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Decision Support System Based Vehicle Ontology for Solving VRPs",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "CoCoSL: Agricultural Solutions Using Image Processing for Coconut Farms in Sri Lanka",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Novel Emoji Based Deep Super Learner (EDSL) for Sentiment Classification",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Efficient data harvesting from boundary nodes for smart irrigation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Unified Framework for Knowledge Inference Based on Heterogeneous Graph Neural Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Improving the Categorization of Intent of a Chatbot in Portuguese with Data Augmentation Obtained by Reverse Translation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Lexicon-Based Sentiment Analysis and Emotion Classification of Climate Change Related Tweets",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Using a Data Mining Approach to Detect Automobile Insurance Fraud",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Comparative Study of Various Pattern Recognition Techniques for Identifying Seismo-Tectonically Susceptible Areas",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Securing Surveillance Data Using Incremental Cryptography",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "On a Structure of an Automated Differential Equation Solver Based on Machine Learning Methods",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Speech Emotion Recognition Using Support Vector Machine and Linear Discriminant Analysis",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cost Optimization of Hybrid Renewable Energy System Based on Nature-Inspired Search Method",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Machine Learning Framework for Cereal Yield Forecasting Using Heterogeneous Data",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "The Emotional Job-Stress of COVID-19 on Nurses Working in Isolation Centres: A Machine Learning Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Novel Approach for Classification of Real Time Data Stream to Reduce Query Processing Time",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Smart Gloves Controller for Drones Using Raspberry Pi & NodeMCU",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Centrality of AI Quality in MLOPs Lifecycle and Its Impact on the Adoption of AI/ML Solutions",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Emotion Detection Based on Facial Expression Using YOLOv5",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Prediction of Stock Price Direction Combining Volatility Indicators with Machine Learning Algorithms",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Experimental Analysis on Dissimilarity Metrics and Sudden Concept Drift Detection",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Knee Abnormality Diagnosis Based on Electromyography Signals",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Heuristics Assisted by Machine Learning for the Integrated Production Planning and Distribution Problem",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Comparative Study on Black Hole Attack in Mobile Ad-Hoc Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Augmented Reality in Marketing Sector: Viewpoint of XR the Moroccan Association Experts",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Simplified Vowel-Like Speech Detection Method and Its FPGA Implementation",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Prediction of Business Process Execution Time",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Prediction of Violence Against Adolescent Girls Using Machine Learning Techniques",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Blockchain Based Fictitious Detection in Social Media",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Facial Gender Classification Using Deep Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Data Warehousing and Mining for Climate Change: Application to the Maghreb Region",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Cold Rolling Mill Energy Consumption Prediction Using Machine Learning",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Face Padding as a Domain Generalization for Face Anti-spoofing",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Visceral Leishmaniasis Detection Using Deep Learning Techniques and Multiple Color Space Bands",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Data Warehouse for Spatial Soil Data Analysis and Mining: Application to the Maghreb Region",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Assessment of Epileptic Gamma Oscillations\u2019 Networks Connectivity",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Binary Emotion Classification of Music Using Deep Neural Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Enhanced Road Damage Detection for Smart City Surveillance",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Automated Diagnosis of Diseases Using Integrated Machine Learning Approaches",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Conceptual Model of a Data Visualization Instrument for Educational Video Games",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Improving MIL Video Anomaly Detection Concatenating Deep Features of Video Clips",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi Sensor Underwater Image Fusion Using Modified Filter Bank Reconstruction Model",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Inventiveness of Text Extraction with Inspiration of Cloud Computing and ML Using Python Logic",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Novel Educational Video Retrieval System Based on the Textual Information",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "LSTM-Based Congestion Detection in Named Data Networks",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Web API Service to RDF Mapping Method for Querying Distributed Data Sources",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Machine Learning for Complex Data Analysis: Overview and a Discussion of a New Reinforcement-Learning Strategy",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Prediction of Colon Cancer Related Tweets Using Deep Learning Models",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Weighted Pathfinding in the Paparazzi Problem with Dynamic Obstacles",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Trace Clustering Based on Activity Profile for Process Discovery in Education",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Analysis of Contrast and Luminous Enhancement Algorithms on Colour Retinal Fundus Images",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Experimental Investigation of CT Scan Imaging Based COVID-19 Detection with Deep Learning Techniques",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Framework for Automated Abstraction Class Detection for Event Abstraction",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Bio-Inspired Agents for a Distributed NLP-Based Clustering in Smart Environments",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Extracting Knowledge from Pharmaceutical Package Inserts",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "TIR-GAN: Thermal Images Restoration Using Generative Adversarial Network",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Object Classification Using ECOC Multi-class SVM and HOG Characteristics",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "A Multi-layer Deep Learning Model for ECG-Based Arrhythmia Classification",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Age-Related Macular Degeneration Using Deep Neural Network Technique and PSO: A Methodology Approach",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi-level Image Segmentation of Breast Tumors Using Kapur Entropy Based Nature-Inspired Algorithms",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Multi-level Image Segmentation Using Kapur Entropy Based Dragonfly Algorithm",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "An Efficient Deep Learning-Based Breast Cancer Detection Scheme with Small Datasets",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Digital Twin-Based Fuel Consumption Model of Locomotive Diesel Engine",
+    "evaluation": "0.000"
+  }
+]

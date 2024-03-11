@@ -1,0 +1,46 @@
+[
+  {
+    "title": "On the Deployment of IoT Systems: An Industrial Survey",
+    "evaluation": "16.000"
+  },
+  {
+    "title": "Osmotic Computing and Related Challenges: A Survey",
+    "evaluation": "11.000"
+  },
+  {
+    "title": "Network for Distributed Intelligence: A Survey and Future Perspectives",
+    "evaluation": "10.000"
+  },
+  {
+    "title": "WebAssembly Beyond the Web: A Review for the Edge-Cloud Continuum",
+    "evaluation": "7.000"
+  },
+  {
+    "title": "Holistic Orchestration for Edge-Native Applications: A Review",
+    "evaluation": "6.500"
+  },
+  {
+    "title": "Enabling Intelligence Inclusiveness in Edge to Cloud Continuum: Challenges and Opportunities",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Serverless Functions in the Cloud-Edge Continuum: Challenges and Opportunities",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Distributed Robotic Systems in the Edge-Cloud Continuum with ROS 2: a Review on Novel Architectures and Technology Readiness",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "A Review of Application Layer Communication Protocols for the IoT Edge Cloud Continuum",
+    "evaluation": "1.000"
+  },
+  {
+    "title": "Serverless Edge Computing\u2014Where We Are and What Lies Ahead",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "Outsourced Data Integrity Checking with Practical Key Update in Edge-Cloud Resilient Networks",
+    "evaluation": "0.000"
+  }
+]
