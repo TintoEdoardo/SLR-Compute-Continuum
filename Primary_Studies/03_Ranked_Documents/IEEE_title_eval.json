@@ -1,0 +1,926 @@
+[
+  {
+    "title": "The SPEC-RG Reference Architecture for The Compute Continuum",
+    "evaluation": "17.243"
+  },
+  {
+    "title": "Enabling Intelligence Inclusiveness in Edge to Cloud Continuum: Challenges and Opportunities",
+    "evaluation": "14.025"
+  },
+  {
+    "title": "Cloud Continuum: The Definition",
+    "evaluation": "13.864"
+  },
+  {
+    "title": "A Proposal for a Continuum-aware Programming Model: From Workflows to Services Autonomously Interacting in the Compute Continuum",
+    "evaluation": "12.850"
+  },
+  {
+    "title": "Orchestration of data-intensive pipeline in 5G-enabled Edge Continuum",
+    "evaluation": "12.400"
+  },
+  {
+    "title": "The Edge, the Cloud, and the Continuum",
+    "evaluation": "12.200"
+  },
+  {
+    "title": "Formal Models for the Energy-Aware Cloud-Edge Computing Continuum: Analysis and Challenges",
+    "evaluation": "12.125"
+  },
+  {
+    "title": "Fault Tolerant Horizontal Computation Offloading",
+    "evaluation": "10.867"
+  },
+  {
+    "title": "From the Cloud to Edge and IoT: a Smart Orchestration Architecture for Enabling Osmotic Computing",
+    "evaluation": "10.633"
+  },
+  {
+    "title": "Orchestration of Containerized Applications in the Cloud Continuum",
+    "evaluation": "10.550"
+  },
+  {
+    "title": "Edge-Cloud Continuum Solutions for Urban Mobility Prediction and Planning",
+    "evaluation": "10.136"
+  },
+  {
+    "title": "Holistic Orchestration for Edge-Native Applications: A Review",
+    "evaluation": "10.125"
+  },
+  {
+    "title": "In the Fog: Application Deployment for the Cloud Continuum",
+    "evaluation": "9.786"
+  },
+  {
+    "title": "A Serverless Computing Fabric for Edge & Cloud",
+    "evaluation": "9.742"
+  },
+  {
+    "title": "The role of Osmotic computing in Internet of Things",
+    "evaluation": "9.575"
+  },
+  {
+    "title": "Definition Of Digital Twin Network Data Model in The Context of Edge-Cloud Continuum",
+    "evaluation": "9.483"
+  },
+  {
+    "title": "Using the Compute Continuum for Data Analysis: Edge-cloud Integration for Urban Mobility",
+    "evaluation": "9.457"
+  },
+  {
+    "title": "Protecting sensitive data in the cloud-to-edge continuum: The FogProtect approach",
+    "evaluation": "9.420"
+  },
+  {
+    "title": "The SERRANO platform: Stepping towards seamless application development & deployment in the heterogeneous edge-cloud continuum",
+    "evaluation": "9.400"
+  },
+  {
+    "title": "Reproducible Performance Optimization of Complex Applications on the Edge-to-Cloud Continuum",
+    "evaluation": "9.300"
+  },
+  {
+    "title": "Towards a Reference Component Model of Edge-Cloud Continuum",
+    "evaluation": "9.240"
+  },
+  {
+    "title": "Low-Latency Anomaly Detection on the Edge-Cloud Continuum for Industry 4.0 Applications: the SEAWALL Case Study",
+    "evaluation": "9.167"
+  },
+  {
+    "title": "Scaling Machine Learning at the Edge-Cloud: A Distributed Computing Perspective",
+    "evaluation": "9.114"
+  },
+  {
+    "title": "QoS-Aware Deployment of Service Compositions in 5G-Empowered Edge-Cloud Continuum",
+    "evaluation": "9.112"
+  },
+  {
+    "title": "System support and mechanisms for adaptive edge-to-cloud DNN model serving",
+    "evaluation": "9.050"
+  },
+  {
+    "title": "Guest Editorial: In-Network Computing: Emerging Trends for the Edge-Cloud Continuum",
+    "evaluation": "9.000"
+  },
+  {
+    "title": "Towards a Multi-objective Scheduling Policy for Serverless-based Edge-Cloud Continuum",
+    "evaluation": "8.914"
+  },
+  {
+    "title": "Towards 6G AI-enabled Service Orchestration in the Cloud Continuum",
+    "evaluation": "8.900"
+  },
+  {
+    "title": "Exploiting the Potential of the Edge-Cloud Continuum with Self-distributing Systems",
+    "evaluation": "8.771"
+  },
+  {
+    "title": "Pilot-Edge: Distributed Resource Management along the Edge-to-Cloud Continuum",
+    "evaluation": "8.760"
+  },
+  {
+    "title": "Experimental Benchmarking of HTTP/QUIC Protocol in IoT Cloud/Edge Continuum",
+    "evaluation": "8.550"
+  },
+  {
+    "title": "Robustness via Elasticity Accelerators for the IoT-Edge-Cloud Continuum",
+    "evaluation": "8.167"
+  },
+  {
+    "title": "UNITE: Integrated IoT-Edge-Cloud Continuum",
+    "evaluation": "8.150"
+  },
+  {
+    "title": "Towards Cognitive Self-Management of IoT-Edge-Cloud Continuum based on User Intents",
+    "evaluation": "8.075"
+  },
+  {
+    "title": "QoS-aware and resource efficient microservice deployment in cloud-edge continuum",
+    "evaluation": "7.970"
+  },
+  {
+    "title": "From Cloud-Edge to Edge-Edge Continuum: the Swarm-Based Edge Computing Systems",
+    "evaluation": "7.967"
+  },
+  {
+    "title": "An Overview of Reference Architectures for Cloud Continuum Interoperability",
+    "evaluation": "7.760"
+  },
+  {
+    "title": "AI-Powered Edge Computing Evolution for Beyond 5G Communication Networks",
+    "evaluation": "7.667"
+  },
+  {
+    "title": "Energy-Aware Workload Allocation for Distributed Deep Neural Networks in Edge-Cloud Continuum",
+    "evaluation": "7.660"
+  },
+  {
+    "title": "A NoSQL DBMS Transparent Data Encryption Approach for Cloud/Edge Continuum",
+    "evaluation": "7.550"
+  },
+  {
+    "title": "A Federated Learning Aggregation Algorithm for Pervasive Computing: Evaluation and Comparison",
+    "evaluation": "7.410"
+  },
+  {
+    "title": "Serverless Functions in the Cloud-Edge Continuum: Challenges and Opportunities",
+    "evaluation": "7.200"
+  },
+  {
+    "title": "Dynamic and Multiprovider-based Resource Infrastructure in the NFV MANO Framework",
+    "evaluation": "7.175"
+  },
+  {
+    "title": "Architectural Vision for Quantum Computing in the Edge-Cloud Continuum",
+    "evaluation": "7.162"
+  },
+  {
+    "title": "Osmotic Computing: A New Paradigm for Edge/Cloud Integration",
+    "evaluation": "7.129"
+  },
+  {
+    "title": "Cognitive Cloud Continuum : Plenary Talk",
+    "evaluation": "7.100"
+  },
+  {
+    "title": "Exploring Task Placement for Edge-to-Cloud Applications using Emulation",
+    "evaluation": "6.900"
+  },
+  {
+    "title": "OpenWolf: A Serverless Workflow Engine for Native Cloud-Edge Continuum",
+    "evaluation": "6.763"
+  },
+  {
+    "title": "SERRANO: Transparent Application Deployment in a Secure, Accelerated and Cognitive Cloud Continuum",
+    "evaluation": "6.733"
+  },
+  {
+    "title": "Decentralized Serverless IoT Dataflow Architecture for the Cloud-to-Edge Continuum",
+    "evaluation": "6.712"
+  },
+  {
+    "title": "SEAWALL: Seamless Low Latency Cloud Platforms for the Industry 4.0",
+    "evaluation": "6.550"
+  },
+  {
+    "title": "Towards Real-time Learning for Edge-Cloud Continuum with Vehicular Computing",
+    "evaluation": "6.500"
+  },
+  {
+    "title": "Adaptive Resource Efficient Microservice Deployment in Cloud-Edge Continuum",
+    "evaluation": "6.488"
+  },
+  {
+    "title": "T2C: A Multi-User System for Deploying DNNs in a Thing-to-Cloud Continuum",
+    "evaluation": "6.363"
+  },
+  {
+    "title": "PhD Forum Abstract: Ultra-low Latency Communication in TSN-based Virtual Environments",
+    "evaluation": "6.300"
+  },
+  {
+    "title": "MLPacker: A Unified Software Tool for Packaging and Deploying Atomic and Distributed Analytic Pipelines",
+    "evaluation": "6.267"
+  },
+  {
+    "title": "Survivability and Resiliency Modeling and Analysis of an Internet of Industrial Things using Hierarchical Models",
+    "evaluation": "6.233"
+  },
+  {
+    "title": "Dependability and Security Quantification of an Internet of Medical Things Infrastructure Based on Cloud-Fog-Edge Continuum for Healthcare Monitoring Using Hierarchical Models",
+    "evaluation": "6.089"
+  },
+  {
+    "title": "Clarifying Fog Computing and Networking: 10 Questions and Answers",
+    "evaluation": "6.067"
+  },
+  {
+    "title": "Edge Computing Solutions for Distributed Machine Learning",
+    "evaluation": "6.025"
+  },
+  {
+    "title": "Evaluating policy-driven adaptation on the Edge-to-Cloud Continuum",
+    "evaluation": "5.970"
+  },
+  {
+    "title": "A New Privacy-Preserving Framework based on Edge-Fog-Cloud Continuum for Load Forecasting",
+    "evaluation": "5.900"
+  },
+  {
+    "title": "Keynote Talk: Leveraging the Edge-Cloud Continuum to Manage the Impact of Wildfires on Air Quality",
+    "evaluation": "5.840"
+  },
+  {
+    "title": "Towards a Cognitive Compute Continuum: An Architecture for Ad-Hoc Self-Managed Swarms",
+    "evaluation": "5.833"
+  },
+  {
+    "title": "An architecture and stochastic method for database container placement in the edge-fog-cloud continuum",
+    "evaluation": "5.727"
+  },
+  {
+    "title": "A Discussion on Context-Awareness to Better Support the IoT Cloud/Edge Continuum",
+    "evaluation": "5.700"
+  },
+  {
+    "title": "Intelligent Task Offloading and Energy Allocation in the UAV-Aided Mobile Edge-Cloud Continuum",
+    "evaluation": "5.625"
+  },
+  {
+    "title": "Resource Allocation for Distributed Machine Learning at the Edge-Cloud Continuum",
+    "evaluation": "5.567"
+  },
+  {
+    "title": "Recursive design for data-driven, self-adaptive IoT services",
+    "evaluation": "5.458"
+  },
+  {
+    "title": "MPDM: A Multi-Paradigm Deployment Model for Large-scale Edge-Cloud Intelligence",
+    "evaluation": "5.446"
+  },
+  {
+    "title": "Enabling microservices management for Deep Learning applications across the Edge-Cloud Continuum",
+    "evaluation": "5.436"
+  },
+  {
+    "title": "Global Resource Management in the ELASTIC Architecture",
+    "evaluation": "5.417"
+  },
+  {
+    "title": "The Promising Role of Representation Learning for Distributed Computing Continuum Systems",
+    "evaluation": "5.400"
+  },
+  {
+    "title": "Kubernetes-based Workload Allocation Optimizer for Minimizing Power Consumption of Computing System with Neural Network",
+    "evaluation": "5.371"
+  },
+  {
+    "title": "Distributed Robotic Systems in the Edge-Cloud Continuum with ROS 2: a Review on Novel Architectures and Technology Readiness",
+    "evaluation": "5.362"
+  },
+  {
+    "title": "OCE-DNS: an innovative Osmotic Computing Enabled Domain Name System",
+    "evaluation": "5.343"
+  },
+  {
+    "title": "SAPPARCHI: an Osmotic Platform to Execute Scalable Applications on Smart City Environments",
+    "evaluation": "5.320"
+  },
+  {
+    "title": "A Distributed Peer to Peer Identity and Access Management for the Osmotic Computing",
+    "evaluation": "5.314"
+  },
+  {
+    "title": "Enabling Effective Multi-Link Data Distribution in NTN-based 6G Networks",
+    "evaluation": "5.280"
+  },
+  {
+    "title": "Towards Osmotic Computing: a Blue-Green Strategy for the Fast Re-Deployment of Microservices",
+    "evaluation": "5.183"
+  },
+  {
+    "title": "AIDA-DB: A Data Management Architecture for the Edge and Cloud Continuum",
+    "evaluation": "5.183"
+  },
+  {
+    "title": "Mobility-Aware IoT Application Placement in the Cloud \u2013 Edge Continuum",
+    "evaluation": "5.129"
+  },
+  {
+    "title": "Seamless Sensor Data Acquisition for the Edge-to-Cloud Continuum",
+    "evaluation": "5.075"
+  },
+  {
+    "title": "A Smart Classroom Based on Deep Learning and Osmotic IoT Computing",
+    "evaluation": "5.040"
+  },
+  {
+    "title": "Sustainable Cloud-Edge Infrastructure as a Service",
+    "evaluation": "5.025"
+  },
+  {
+    "title": "Service and network function placement in the edge-cloud continuum",
+    "evaluation": "5.017"
+  },
+  {
+    "title": "TUFA: A TOSCA extension for the specification of accelerator-aware applications in the Cloud Continuum",
+    "evaluation": "4.967"
+  },
+  {
+    "title": "Leveraging the serverless paradigm for realizing machine learning pipelines across the edge-cloud continuum",
+    "evaluation": "4.950"
+  },
+  {
+    "title": "Rule-Based Resource Matchmaking for Composite Application Deployments across IoT-Fog-Cloud Continuums",
+    "evaluation": "4.933"
+  },
+  {
+    "title": "A Homomorphic Encryption Service to Secure Data Processing in a Cloud/Edge Continuum Context",
+    "evaluation": "4.914"
+  },
+  {
+    "title": "Measuring the Energy of Smartphone Communications in the Edge-Cloud Continuum: Approaches, Challenges, and a Case Study",
+    "evaluation": "4.912"
+  },
+  {
+    "title": "Deep Osmosis: Holistic Distributed Deep Learning in Osmotic Computing",
+    "evaluation": "4.836"
+  },
+  {
+    "title": "Considering the implications of species on pigment estimation from leaf spectroscopy",
+    "evaluation": "4.800"
+  },
+  {
+    "title": "eScience Serverless Data Storage Services in the Edge-Fog-Cloud Continuum",
+    "evaluation": "4.800"
+  },
+  {
+    "title": "Development of a Digital Twin for Smart Building over Edge-Cloud Continuum",
+    "evaluation": "4.783"
+  },
+  {
+    "title": "knowlEdge Project \u2013Concept, Methodology and Innovations for Artificial Intelligence in Industry 4.0",
+    "evaluation": "4.757"
+  },
+  {
+    "title": "CaMP-INC: Components-aware Microservices Placement for In-Network Computing Cloud-Edge Continuum",
+    "evaluation": "4.717"
+  },
+  {
+    "title": "Hierarchical and Decentralised Federated Learning",
+    "evaluation": "4.711"
+  },
+  {
+    "title": "Analytics Everywhere for Streaming IoT Data",
+    "evaluation": "4.513"
+  },
+  {
+    "title": "Basic Principles of Osmotic Computing: Secure and Dependable MicroElements (MELs) Orchestration Leveraging Blockchain Facilities",
+    "evaluation": "4.450"
+  },
+  {
+    "title": "Towards Osmotic Computing: Future Prospect for the Health Information Technology (HIT) Systems of ISASI-CNR (ME)",
+    "evaluation": "4.433"
+  },
+  {
+    "title": "Optimal and Privacy-Aware Resource Management in Artificial Intelligence of Things Using Osmotic Computing",
+    "evaluation": "4.427"
+  },
+  {
+    "title": "Querying Distributed Sensor Streams in the Edge-To-Cloud Continuum",
+    "evaluation": "4.400"
+  },
+  {
+    "title": "The Network in the Continuum",
+    "evaluation": "4.400"
+  },
+  {
+    "title": "The IEEE 2302\u20132021 Standard on Intercloud Interoperability and Federation: Seamless Cloud-agnostic Interoperability Management for Resource Discovery, Access and Trust",
+    "evaluation": "4.378"
+  },
+  {
+    "title": "Reinforced Transformer Learning for VSI-DDoS Detection in Edge Clouds",
+    "evaluation": "4.364"
+  },
+  {
+    "title": "Fogmotic: Applying Osmotic Data Services to improve Database Operations on SmartCity Environments",
+    "evaluation": "4.343"
+  },
+  {
+    "title": "On the QNX IPC: Assessing Predictability for Local and Distributed Real-Time Systems",
+    "evaluation": "4.336"
+  },
+  {
+    "title": "Towards Lightweight Data Integration Using Multi-Workflow Provenance and Data Observability",
+    "evaluation": "4.260"
+  },
+  {
+    "title": "Distributed AI-Driven Search Engine on Visual Internet-of-Things for Event Discovery in the Cloud",
+    "evaluation": "4.200"
+  },
+  {
+    "title": "Time-aware Data Spaces-A key Computing Unit in the Edge-to-Cloud Continuum",
+    "evaluation": "4.150"
+  },
+  {
+    "title": "Securing Serverless Workflows on the Cloud Edge Continuum",
+    "evaluation": "4.114"
+  },
+  {
+    "title": "A Brief History of Liquid Software",
+    "evaluation": "4.110"
+  },
+  {
+    "title": "Cloud - Edge offloading model for vehicular traffic analysis",
+    "evaluation": "3.987"
+  },
+  {
+    "title": "Efficient Distributed DNNs in the Mobile-Edge-Cloud Continuum",
+    "evaluation": "3.953"
+  },
+  {
+    "title": "Cloud-Edge Interoperability for Demand Response-Enabled Fast Frequency Response Service Provision",
+    "evaluation": "3.909"
+  },
+  {
+    "title": "Embedded Market: Challenges and Opportunities",
+    "evaluation": "3.900"
+  },
+  {
+    "title": "Keynote Speech 2: Extending the Data Science pipeline: Integrating Machine Learning into Edge Environments",
+    "evaluation": "3.900"
+  },
+  {
+    "title": "Urban Pollution Monitoring Based on Mobile Crowd Sensing: An Osmotic Computing Approach",
+    "evaluation": "3.837"
+  },
+  {
+    "title": "Towards the basic principles of osmotic computing: A closed-loop gamified cognitive rehabilitation flow model",
+    "evaluation": "3.786"
+  },
+  {
+    "title": "Mobility-Aware Serverless Function Adaptations Across the Edge-Cloud Continuum",
+    "evaluation": "3.770"
+  },
+  {
+    "title": "Edge-Cloud Intelligence in Self-Diagnostic of Land Mobile Radio Systems",
+    "evaluation": "3.767"
+  },
+  {
+    "title": "Column: From the Editor: Welcome to the Continuum",
+    "evaluation": "3.767"
+  },
+  {
+    "title": "QoS aware FaaS for Heterogeneous Edge-Cloud continuum",
+    "evaluation": "3.745"
+  },
+  {
+    "title": "Towards An Efficient Key Management and Authentication Strategy for Combined Fog-to-Cloud Continuum Systems",
+    "evaluation": "3.729"
+  },
+  {
+    "title": "Edge and Fog Computing Enabled AI for IoT-An Overview",
+    "evaluation": "3.717"
+  },
+  {
+    "title": "Outsourced Data Integrity Checking with Practical Key Update in Edge-Cloud Resilient Networks",
+    "evaluation": "3.700"
+  },
+  {
+    "title": "Application and Infrastructure-Aware Orchestration in the Cloud-to-Edge Continuum",
+    "evaluation": "3.680"
+  },
+  {
+    "title": "TEMPOS: QoS Management Middleware for Edge Cloud Computing FaaS in the Internet of Things",
+    "evaluation": "3.679"
+  },
+  {
+    "title": "Reinforcement Learning based Cloud and Edge Resource Allocation for Real-Time Telemedicine",
+    "evaluation": "3.667"
+  },
+  {
+    "title": "Performance Analysis of Apache OpenWhisk Across the Edge-Cloud Continuum",
+    "evaluation": "3.629"
+  },
+  {
+    "title": "Osmotic Monitoring of Microservices between the Edge and Cloud",
+    "evaluation": "3.618"
+  },
+  {
+    "title": "Keynote Speech 1: Integrating Machine Learning and Multi-Agent Systems for Fully Enabling Device-Edge-Cloud Continuum in Complex IoT Worlds",
+    "evaluation": "3.600"
+  },
+  {
+    "title": "Keynote Speech 1: Integrating Machine Learning and Multi-Agent Systems for Fully Enabling Device-Edge-Cloud Continuum in Complex IoT Worlds",
+    "evaluation": "3.600"
+  },
+  {
+    "title": "Osmosis: The Osmotic Computing Platform for Microelements in the Cloud, Edge, and Internet of Things",
+    "evaluation": "3.592"
+  },
+  {
+    "title": "Enhanced rank-based model for selecting controllers in dynamic and heterogeneous fog environments",
+    "evaluation": "3.583"
+  },
+  {
+    "title": "Serverless Edge Computing\u2014Where We Are and What Lies Ahead",
+    "evaluation": "3.567"
+  },
+  {
+    "title": "TEACHING - Trustworthy autonomous cyber-physical applications through human-centred intelligence",
+    "evaluation": "3.529"
+  },
+  {
+    "title": "WebAssembly Beyond the Web: A Review for the Edge-Cloud Continuum",
+    "evaluation": "3.513"
+  },
+  {
+    "title": "FogPi: A Portable Fog Infrastructure through Raspberry Pis",
+    "evaluation": "3.500"
+  },
+  {
+    "title": "The Network as a Computer Board: Architecture Concepts for In-Network Computing in the 6G Era",
+    "evaluation": "3.500"
+  },
+  {
+    "title": "Multi-Objective Robust Workflow Offloading in Edge-to-Cloud Continuum",
+    "evaluation": "3.490"
+  },
+  {
+    "title": "Leveraging Context-awareness to Better Support the IoT Cloud-Edge Continuum",
+    "evaluation": "3.450"
+  },
+  {
+    "title": "A Performance Analysis of Vector Length Agnostic Code",
+    "evaluation": "3.433"
+  },
+  {
+    "title": "Resource Allocation and Scheduling of Real-Time Workflow Applications in an IoT-Fog-Cloud Environment",
+    "evaluation": "3.425"
+  },
+  {
+    "title": "Priority-Driven Task Processing in UAV-Assisted Software-Defined Edge Networks",
+    "evaluation": "3.414"
+  },
+  {
+    "title": "A Review of Application Layer Communication Protocols for the IoT Edge Cloud Continuum",
+    "evaluation": "3.400"
+  },
+  {
+    "title": "Artifact: Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum",
+    "evaluation": "3.400"
+  },
+  {
+    "title": "Serverledge: Decentralized Function-as-a-Service for the Edge-Cloud Continuum",
+    "evaluation": "3.400"
+  },
+  {
+    "title": "Keynote Speech: 6G, revolution or continuity?",
+    "evaluation": "3.400"
+  },
+  {
+    "title": "Intelligence in the Continuum",
+    "evaluation": "3.400"
+  },
+  {
+    "title": "Multi-Tier GPU Virtualization for Deep Learning in Cloud-Edge Systems",
+    "evaluation": "3.382"
+  },
+  {
+    "title": "ASRE \u2014 Towards Application-specific Resource Ensembles across Edges and Clouds",
+    "evaluation": "3.380"
+  },
+  {
+    "title": "From Cloud to Edge: Seamless Software Migration at the Era of the Web of Things",
+    "evaluation": "3.356"
+  },
+  {
+    "title": "Service-based Federated Deep Reinforcement Learning for Anomaly Detection in Fog Ecosystems",
+    "evaluation": "3.337"
+  },
+  {
+    "title": "Evaluating WebAssembly for Orchestrated Deployment of Serverless Functions",
+    "evaluation": "3.325"
+  },
+  {
+    "title": "On the Fog-Cloud Cooperation: How Fog Computing can address latency concerns of IoT applications",
+    "evaluation": "3.300"
+  },
+  {
+    "title": "Automating Edge-to-cloud Workflows for Science: Traversing the Edge-to-cloud Continuum with Pegasus",
+    "evaluation": "3.300"
+  },
+  {
+    "title": "Dynamic Offloading for Improved Performance and Energy Efficiency in Heterogeneous IoT-Edge-Cloud Continuum",
+    "evaluation": "3.300"
+  },
+  {
+    "title": "Using Osmotic Services Composition for Dynamic Load Balancing of Smart City Applications",
+    "evaluation": "3.263"
+  },
+  {
+    "title": "Fractus: Orchestration of Distributed Applications in the Drone-Edge-Cloud Continuum",
+    "evaluation": "3.255"
+  },
+  {
+    "title": "Osmotic collaborative computing for machine learning and cybersecurity applications in industrial iot networks and cyber physical systems with Gaussian mixture models",
+    "evaluation": "3.180"
+  },
+  {
+    "title": "Unsupervised Deep Learning for Distributed Service Function Chain Embedding",
+    "evaluation": "3.138"
+  },
+  {
+    "title": "On the Applicability of Secret Share Algorithms for Osmotic Computing",
+    "evaluation": "3.133"
+  },
+  {
+    "title": "Blockchain-Enabled Reliable Osmotic Computing for Cloud of Things: Applications and Challenges",
+    "evaluation": "3.120"
+  },
+  {
+    "title": "A Framework for TSN-enabled Virtual Environments for Ultra-Low Latency 5G Scenarios",
+    "evaluation": "3.086"
+  },
+  {
+    "title": "Methodical Analysis of a Fog Computing Assisted Animal-Welfare Software System in a Real-World Smart Dairy Farm IoT Deployment",
+    "evaluation": "3.062"
+  },
+  {
+    "title": "Efficient RDF Streaming for the Edge-Cloud Continuum",
+    "evaluation": "3.025"
+  },
+  {
+    "title": "Keynote address wednesday: Compute continuum and the nonlinear validation challenge",
+    "evaluation": "3.000"
+  },
+  {
+    "title": "Mapping IoT Applications on the Edge to Cloud Continuum with a Filter Stream Model",
+    "evaluation": "2.920"
+  },
+  {
+    "title": "A goal-driven approach for deploying self-adaptive IoT systems",
+    "evaluation": "2.873"
+  },
+  {
+    "title": "Towards Distributed Edge-based Systems",
+    "evaluation": "2.811"
+  },
+  {
+    "title": "Extending Kubernetes Clusters to Low-Resource Edge Devices Using Virtual Kubelets",
+    "evaluation": "2.753"
+  },
+  {
+    "title": "Towards Osmotic Computing: Analyzing Overlay Network Solutions to Optimize the Deployment of Container-Based Microservices in Fog, Edge and IoT Environments",
+    "evaluation": "2.740"
+  },
+  {
+    "title": "Energy-efficient Training of Distributed DNNs in the Mobile-edge-cloud Continuum",
+    "evaluation": "2.725"
+  },
+  {
+    "title": "Computational Offloading for Efficient Trust Management in Pervasive Online Social Networks Using Osmotic Computing",
+    "evaluation": "2.690"
+  },
+  {
+    "title": "The Edge-to-Cloud Continuum",
+    "evaluation": "2.570"
+  },
+  {
+    "title": "Poster: INSANE \u2013 A Uniform Middleware API for Differentiated Quality using Heterogeneous Acceleration Techniques at the Network Edge",
+    "evaluation": "2.550"
+  },
+  {
+    "title": "Introducing Data Processing Units (DPU) at the Edge [Invited]",
+    "evaluation": "2.500"
+  },
+  {
+    "title": "Dynamic Service Provisioning in the Edge-Cloud Continuum With Bounded Resources",
+    "evaluation": "2.500"
+  },
+  {
+    "title": "A Methodology and Simulation-Based Toolchain for Estimating Deployment Performance of Smart Collective Services at the Edge",
+    "evaluation": "2.485"
+  },
+  {
+    "title": "Osmotic Computing: Software Defined Membranes meet Private/Federated Blockchains",
+    "evaluation": "2.467"
+  },
+  {
+    "title": "System Stability Under Adversarial Injection of Dependent Tasks",
+    "evaluation": "2.464"
+  },
+  {
+    "title": "Service Placement for Real-Time Applications: Rate-Adaptation and Load-Balancing at the Network Edge",
+    "evaluation": "2.456"
+  },
+  {
+    "title": "Improving Energy Efficiency of Low-Voltage Logic by Technology-Driven Design",
+    "evaluation": "2.456"
+  },
+  {
+    "title": "OBSC:Osmotic BlockChain based framework for Smart City Environment",
+    "evaluation": "2.383"
+  },
+  {
+    "title": "Lightweight Reputation Management for Multi-Role Internet of Vehicles",
+    "evaluation": "2.380"
+  },
+  {
+    "title": "Computing in the Network",
+    "evaluation": "2.379"
+  },
+  {
+    "title": "Offloading execution from edge to cloud: A dynamic node-red based approach",
+    "evaluation": "2.325"
+  },
+  {
+    "title": "Evaluation of virtualized osmotic cloud network using discrete event Branch-and-Bound heuristics",
+    "evaluation": "2.285"
+  },
+  {
+    "title": "ML Processors Are Going Multi-Core: A performance dream or a scheduling nightmare?",
+    "evaluation": "2.260"
+  },
+  {
+    "title": "An Innovative Osmotic Computing Framework for Self Adapting City Traffic in Autonomous Vehicle Environment",
+    "evaluation": "2.200"
+  },
+  {
+    "title": "Open Middleware proposal for IoT focused on Industry 4.0",
+    "evaluation": "2.200"
+  },
+  {
+    "title": "Osmotic Flow: Osmotic Computing + IoT Workflow",
+    "evaluation": "2.175"
+  },
+  {
+    "title": "Self-Learning Multi-Mode Slicing Mechanism for Dynamic Network Architectures",
+    "evaluation": "2.175"
+  },
+  {
+    "title": "Distributed Osmotic Computing Approach to Implementation of Explainable Predictive Deep Learning at Industrial IoT Network Edges with Real-Time Adaptive Wavelet Graphs",
+    "evaluation": "2.170"
+  },
+  {
+    "title": "In the Cognitive Cloud Continuum",
+    "evaluation": "2.160"
+  },
+  {
+    "title": "eCloud: A Vision for the Evolution of the Edge-Cloud Continuum",
+    "evaluation": "2.150"
+  },
+  {
+    "title": "FaDO: FaaS Functions and Data Orchestrator for Multiple Serverless Edge-Cloud Clusters",
+    "evaluation": "2.100"
+  },
+  {
+    "title": "GANSO: Automate Network Slicing at the Transport Network Interconnecting the Edge",
+    "evaluation": "2.100"
+  },
+  {
+    "title": "Extending P4 in-band telemetry to user equipment for latency- And localization-aware autonomous networking with AI forecasting",
+    "evaluation": "2.100"
+  },
+  {
+    "title": "Dynamic Bandwidth Slicing for Time-Critical IoT Data Streams in the Edge-Cloud Continuum",
+    "evaluation": "2.080"
+  },
+  {
+    "title": "Decentralized Edge-to-Cloud Load Balancing: Service Placement for the Internet of Things",
+    "evaluation": "2.061"
+  },
+  {
+    "title": "Shadows: Blockchain Virtualization for Interoperable Computations in IIoT Environments",
+    "evaluation": "2.033"
+  },
+  {
+    "title": "Keynote: Engineering the New Fabric of the Distributed Compute Continuum",
+    "evaluation": "2.000"
+  },
+  {
+    "title": "Trade-Offs Along the Cloud-Edge Continuum",
+    "evaluation": "1.929"
+  },
+  {
+    "title": "Securing SDN Controllers in Internet of Things Environments",
+    "evaluation": "1.837"
+  },
+  {
+    "title": "Web AR: A Promising Future for Mobile Augmented Reality\u2014State of the Art, Challenges, and Insights",
+    "evaluation": "1.644"
+  },
+  {
+    "title": "Declarative Provisioning of Virtual Network Function Chains in Intent-based Networks",
+    "evaluation": "1.633"
+  },
+  {
+    "title": "Osmotic Message-Oriented Middleware for the Internet of Things",
+    "evaluation": "1.533"
+  },
+  {
+    "title": "Task Scheduling and Load Balancing for Minimization of Response Time in IoT Assisted Cloud Environments",
+    "evaluation": "1.520"
+  },
+  {
+    "title": "A Declarative Approach to Topology-Aware Serverless Function-Execution Scheduling",
+    "evaluation": "1.350"
+  },
+  {
+    "title": "Optimal Relocation of Virtualized PDC in Edge-Cloud Architectures under Dynamic Latency Conditions",
+    "evaluation": "1.250"
+  },
+  {
+    "title": "TaScaaS: A Multi-Tenant Serverless Task Scheduler and Load Balancer as a Service",
+    "evaluation": "1.193"
+  },
+  {
+    "title": "The Rise of Kubernetes",
+    "evaluation": "1.120"
+  },
+  {
+    "title": "Osmotic Bio-Inspired Load Balancing Algorithm in Cloud Computing",
+    "evaluation": "1.070"
+  },
+  {
+    "title": "Secure Distributed Storage Orchestration on Heterogeneous Cloud-Edge Infrastructures",
+    "evaluation": "0.939"
+  },
+  {
+    "title": "Edge computing",
+    "evaluation": "0.887"
+  },
+  {
+    "title": "A network-centric architecture for building the cloud continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "P4-based Hitless FaaS Load Balancer for Packet-Optical Network Edge Continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "TEMA: Event Driven Serverless Workflows Platform for Natural Disaster Management",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "EFCC: a flexible Emulation Framework to evaluate network, computing and application deployments in the Cloud Continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "FIDES: A Proposal for Federated Accountability in the Compute Continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "GNOSIS: Proactive Image Placement Using Graph Neural Networks & Deep Reinforcement Learning",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "CKN: An Edge AI Distributed Framework",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Intelligent Sampling: A Novel Approach to Optimize Workload Scheduling in Large-Scale Heterogeneous Computing Continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "COGNIT: Challenges and Vision for a Serverless and Multi-Provider Cognitive Cloud-Edge Continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Future Trends in Fog/Edge Computing and Networking",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Osmotic Computing and Related Challenges: A Survey",
+    "evaluation": "-991.683"
+  },
+  {
+    "title": "Network for Distributed Intelligence: a Survey and Future Perspectives",
+    "evaluation": "-996.150"
+  },
+  {
+    "title": "On the Deployment of IoT Systems: An Industrial Survey",
+    "evaluation": "-997.138"
+  }
+]

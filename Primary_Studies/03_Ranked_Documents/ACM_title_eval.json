@@ -1,0 +1,626 @@
+[
+  {
+    "title": "Continuum: Automate Infrastructure Deployment and Benchmarking in the Compute Continuum",
+    "evaluation": "14.300"
+  },
+  {
+    "title": "AI-Based Container Orchestration for Federated Cloud Environments",
+    "evaluation": "11.900"
+  },
+  {
+    "title": "KheOps: Cost-Effective Repeatability, Reproducibility, and Replicability of Edge-to-Cloud Experiments",
+    "evaluation": "11.367"
+  },
+  {
+    "title": "Apollo: Towards an Efficient Distributed Orchestration of Serverless Function Compositions in the Cloud-Edge Continuum",
+    "evaluation": "10.850"
+  },
+  {
+    "title": "WebAssembly as a Common Layer for the Cloud-Edge Continuum",
+    "evaluation": "10.033"
+  },
+  {
+    "title": "Simulating FaaS Orchestrations In The Cloud-Edge Continuum",
+    "evaluation": "9.025"
+  },
+  {
+    "title": "Self-Balancing Architectures Based on Liquid Functions across Computing Continuums",
+    "evaluation": "9.000"
+  },
+  {
+    "title": "MDSC: Modelling Distributed Stream Processing across the Edge-to-Cloud Continuum",
+    "evaluation": "8.233"
+  },
+  {
+    "title": "The Convergence of Blockchain and Machine Learning for Decentralized Trust Management in IoT Ecosystems",
+    "evaluation": "7.700"
+  },
+  {
+    "title": "FRAME 2022: The 2nd Workshop on Flexible Resource and Application Management on the Edge",
+    "evaluation": "7.400"
+  },
+  {
+    "title": "Joint Optimization in Edge-Cloud Continuum for Federated Unsupervised Person Re-Identification",
+    "evaluation": "6.711"
+  },
+  {
+    "title": "Toward Inference Delivery Networks: Distributing Machine Learning With Optimality Guarantees",
+    "evaluation": "6.653"
+  },
+  {
+    "title": "Performance Estimation of Container-Based Cloud-to-Fog Offloading",
+    "evaluation": "6.567"
+  },
+  {
+    "title": "Inter-Operability and Orchestration in Heterogeneous Cloud/Edge Resources: The ACCORDION Vision",
+    "evaluation": "6.433"
+  },
+  {
+    "title": "A Unified Model for the Mobile-Edge-Cloud Continuum",
+    "evaluation": "5.857"
+  },
+  {
+    "title": "Deploying Access Control Enforcement for IoT in the Cloud-Edge Continuum with the Help of the CAP Theorem",
+    "evaluation": "5.712"
+  },
+  {
+    "title": "FlexScience'22: 12th Workshop on AI and Scientific Computing at Scale Using Flexible Computing Infrastructures",
+    "evaluation": "5.600"
+  },
+  {
+    "title": "Demo:Smart Waste Disposal with Edge-Cloud Continuum Architecture",
+    "evaluation": "5.575"
+  },
+  {
+    "title": "A Mathematical Model for Latency Constrained Self-Organizing Application Placement in the Edge",
+    "evaluation": "5.500"
+  },
+  {
+    "title": "Multi-Edge Server-Assisted Dynamic Federated Learning With an Optimized Floating Aggregation Point",
+    "evaluation": "5.481"
+  },
+  {
+    "title": "Oakestra: An Orchestration Framework for Edge Computing",
+    "evaluation": "5.400"
+  },
+  {
+    "title": "A Minicloud Specification Enabling the Federation of Heterogeneous Edge Resources for Latency Sensitive Applications' Requirements",
+    "evaluation": "5.375"
+  },
+  {
+    "title": "Towards Data-Efficient Continuous Learning for Edge Video Analytics via Smart Caching",
+    "evaluation": "5.340"
+  },
+  {
+    "title": "An Osmotic Ecosystem for Data Streaming Applications in Smart Cities",
+    "evaluation": "5.060"
+  },
+  {
+    "title": "Towards Edge-Cloud Architectures for Personal Protective Equipment Detection",
+    "evaluation": "5.050"
+  },
+  {
+    "title": "A Novel Approach to Distributed Model Aggregation Using Apache Kafka",
+    "evaluation": "5.025"
+  },
+  {
+    "title": "Digital Twin Based Fault Analysis in Hybrid-Cloud Applications",
+    "evaluation": "5.025"
+  },
+  {
+    "title": "DECICE: Device-Edge-Cloud Intelligent Collaboration Framework",
+    "evaluation": "4.900"
+  },
+  {
+    "title": "Big Data Analytics for Smart Cities: The H2020 CLASS Project",
+    "evaluation": "4.800"
+  },
+  {
+    "title": "Managing Non-Functional Requirements in an ELASTIC Edge-Cloud Continuum",
+    "evaluation": "4.780"
+  },
+  {
+    "title": "Data Science Workflows for the Cloud/Edge Computing Continuum",
+    "evaluation": "4.775"
+  },
+  {
+    "title": "How Blockchain and Microservices Are Being Used Together: A Systematic Mapping Study",
+    "evaluation": "4.750"
+  },
+  {
+    "title": "A Federated Fog-Cloud Framework for Data Processing and Orchestration: A Case Study in Smart Cities",
+    "evaluation": "4.712"
+  },
+  {
+    "title": "An Evaluation of Service Mesh Frameworks for Edge Systems",
+    "evaluation": "4.533"
+  },
+  {
+    "title": "Non-Functional Requirements in the ELASTIC Architecture",
+    "evaluation": "4.480"
+  },
+  {
+    "title": "Cost Optimization for the Edge-Cloud Continuum by Energy-Aware Workload Placement",
+    "evaluation": "4.033"
+  },
+  {
+    "title": "Quantum Computing Management of a Cloud/Edge Architecture",
+    "evaluation": "4.025"
+  },
+  {
+    "title": "An Empirical Study of Resource-Stressing Faults in Edge-Computing Applications",
+    "evaluation": "4.000"
+  },
+  {
+    "title": "Saving Energy on Smartphones through Edge Computing: An Experimental Evaluation",
+    "evaluation": "3.967"
+  },
+  {
+    "title": "Efficient Distributed DNNs in the Mobile-Edge-Cloud Continuum",
+    "evaluation": "3.953"
+  },
+  {
+    "title": "An Event and Service Mesh Architecture Supporting Service Integration in Society 5.0 enabled Smart Cities",
+    "evaluation": "3.944"
+  },
+  {
+    "title": "A Pattern-Based Function and Workflow Visual Environment for FaaS Development across the Continuum",
+    "evaluation": "3.925"
+  },
+  {
+    "title": "Embedded Market: Challenges and Opportunities",
+    "evaluation": "3.900"
+  },
+  {
+    "title": "Fog Computing for Efficient Predictive Analysis in Smart Grids",
+    "evaluation": "3.883"
+  },
+  {
+    "title": "ARADA: Adaptive Resource Allocation for Improving Energy Efficiency in Deep Learning Accelerators",
+    "evaluation": "3.820"
+  },
+  {
+    "title": "Latency Preserving Self-Optimizing Placement at the Edge",
+    "evaluation": "3.783"
+  },
+  {
+    "title": "SLO-Aware Inference Scheduler for Heterogeneous Processors in Edge Platforms",
+    "evaluation": "3.781"
+  },
+  {
+    "title": "En-OsCo: Energy-Aware Osmotic Computing Framework Using Hyper-Heuristics",
+    "evaluation": "3.733"
+  },
+  {
+    "title": "MF2C: Towards a Coordinated Management of the IoT-Fog-Cloud Continuum",
+    "evaluation": "3.725"
+  },
+  {
+    "title": "Can My WiFi Handle the Metaverse? A Performance Evaluation Of Meta's Flagship Virtual Reality Hardware",
+    "evaluation": "3.614"
+  },
+  {
+    "title": "Managing Geo-Distributed Stream Processing Pipelines for the IIoT with StreamPipes Edge Extensions",
+    "evaluation": "3.533"
+  },
+  {
+    "title": "FADE: FaaS-Inspired Application Decomposition and Energy-Aware Function Placement on the Edge",
+    "evaluation": "3.475"
+  },
+  {
+    "title": "Adaptive Database Synchronization for an Online Analytical Cioud-to-Edge Continuum",
+    "evaluation": "3.467"
+  },
+  {
+    "title": "MSIRM: Cost-Efficient and SLO-Aware ML Load Balancing on Fog and Multi-Cloud Network",
+    "evaluation": "3.413"
+  },
+  {
+    "title": "Operations and Control Networks (OCN) Model: A Systematic Approach to Operational and Information Technology Convergence",
+    "evaluation": "3.386"
+  },
+  {
+    "title": "Service Computing for Industry 4.0: State of the Art, Challenges, and Research Opportunities",
+    "evaluation": "3.326"
+  },
+  {
+    "title": "OTEC: An Optimized Transcoding Task Scheduler for Cloud and Fog Environments",
+    "evaluation": "3.233"
+  },
+  {
+    "title": "IEM: A Unified Lifecycle Orchestrator for Multilingual IaC Deployments",
+    "evaluation": "3.180"
+  },
+  {
+    "title": "Towards a Resource-Aware Middleware Support for Distributed Game Engine Design",
+    "evaluation": "3.080"
+  },
+  {
+    "title": "UDAVA: An Unsupervised Learning Pipeline for Sensor Data Validation in Manufacturing",
+    "evaluation": "3.055"
+  },
+  {
+    "title": "Real-Time Monitoring and Analysis of Edge and Cloud Resources",
+    "evaluation": "2.917"
+  },
+  {
+    "title": "MAPO: A Multi-Objective Model for IoT Application Placement in a Fog Environment",
+    "evaluation": "2.900"
+  },
+  {
+    "title": "Practical Cryptographic Forensic Tools for Lightweight Internet of Things and Cold Storage Systems",
+    "evaluation": "2.893"
+  },
+  {
+    "title": "\u03bcActor: Stateful Serverless at the Edge",
+    "evaluation": "2.883"
+  },
+  {
+    "title": "ANIARA Project - Automation of Network Edge Infrastructure and Applications with Artificial Intelligence",
+    "evaluation": "2.850"
+  },
+  {
+    "title": "PhD Forum Abstract: Vehicular-Based Support to Cooperative Edge Computing Based Applications in Next-Gen Networks",
+    "evaluation": "2.850"
+  },
+  {
+    "title": "EDGELESS Project: On the Road to Serverless Edge AI",
+    "evaluation": "2.833"
+  },
+  {
+    "title": "Edge Federation: Towards an Integrated Service Provisioning Model",
+    "evaluation": "2.807"
+  },
+  {
+    "title": "Fogxy: An Architectural Pattern for Fog Computing",
+    "evaluation": "2.762"
+  },
+  {
+    "title": "Innovation Potential of the ACCORDION Platform",
+    "evaluation": "2.733"
+  },
+  {
+    "title": "Placement of Microservices-Based IoT Applications in Fog Computing: A Taxonomy and Future Directions",
+    "evaluation": "2.724"
+  },
+  {
+    "title": "Coral-Pie: A Geo-Distributed Edge-Compute Solution for Space-Time Vehicle Tracking",
+    "evaluation": "2.720"
+  },
+  {
+    "title": "ComB: A Flexible, Application-Oriented Benchmark for Edge Computing",
+    "evaluation": "2.717"
+  },
+  {
+    "title": "PIACERE Project: Description and Prototype for Optimizing Infrastructure as Code Deployment Configurations",
+    "evaluation": "2.650"
+  },
+  {
+    "title": "Safety of Fog-Based Industrial Automation Systems",
+    "evaluation": "2.580"
+  },
+  {
+    "title": "Emergency Communications Leveraging Decentralized Swarm Computing",
+    "evaluation": "2.540"
+  },
+  {
+    "title": "Dynamic Service Provisioning in the Edge-Cloud Continuum With Bounded Resources",
+    "evaluation": "2.500"
+  },
+  {
+    "title": "Celestial: Virtual Software System Testbeds for the LEO Edge",
+    "evaluation": "2.462"
+  },
+  {
+    "title": "Filling the Gap between Scientific Research on Artificial Intelligence and Industry 4.0 Need",
+    "evaluation": "2.450"
+  },
+  {
+    "title": "SyncMesh: Improving Data Locality for Function-as-a-Service in Meshed Edge Networks",
+    "evaluation": "2.450"
+  },
+  {
+    "title": "Smart Governance for Smart Industries",
+    "evaluation": "2.400"
+  },
+  {
+    "title": "A Design Flow Based on Docker and Kubernetes for ROS-Based Robotic Software Applications",
+    "evaluation": "2.396"
+  },
+  {
+    "title": "Facilitating Distributed Data-Flow Programming with Eclipse Zenoh: The ERDOS Case",
+    "evaluation": "2.367"
+  },
+  {
+    "title": "Realistic Assessment of Transport Protocols Performance over LEO-Based Communications",
+    "evaluation": "2.363"
+  },
+  {
+    "title": "Towards Self-Adaptive Peer-to-Peer Monitoring for Fog Environments",
+    "evaluation": "2.355"
+  },
+  {
+    "title": "DeFog: Fog Computing Benchmarks",
+    "evaluation": "2.333"
+  },
+  {
+    "title": "Research Challenges in Query Processing and Data Analytics on the Edge",
+    "evaluation": "2.200"
+  },
+  {
+    "title": "Supporting vPLC Networking over TSN with Kubernetes in Industry 4.0",
+    "evaluation": "2.186"
+  },
+  {
+    "title": "ProCMotive: Bringing Programmability and Connectivity into Isolated Vehicles",
+    "evaluation": "2.148"
+  },
+  {
+    "title": "A Decentralized Architecture for Dynamic and Federated Access Control Facilitating Smart Tourism Services",
+    "evaluation": "2.067"
+  },
+  {
+    "title": "Applicability of the IEC 62443 Standard in Industry 4.0 / IIoT",
+    "evaluation": "2.062"
+  },
+  {
+    "title": "The DYNABIC Approach to Resilience of Critical Infrastructures",
+    "evaluation": "2.050"
+  },
+  {
+    "title": "IoMiRCA: Root Cause Analysis in IoT-Extended 5G Microservice Environments",
+    "evaluation": "1.967"
+  },
+  {
+    "title": "Serverless Edge Computing: Vision and Challenges",
+    "evaluation": "1.900"
+  },
+  {
+    "title": "ThingVisor Factory: Thing Virtualization Platform for Things as a Service",
+    "evaluation": "1.850"
+  },
+  {
+    "title": "An Innovative Methodology for Big Data Visualization in Oceanographic Domain",
+    "evaluation": "1.820"
+  },
+  {
+    "title": "The Security Framework of Fed4IoT",
+    "evaluation": "1.767"
+  },
+  {
+    "title": "Preventing EFail Attacks with Client-Side WebAssembly: The Case of Swiss Post's IncaMail",
+    "evaluation": "1.767"
+  },
+  {
+    "title": "Beowulf Clusters: From Research Curiosity to Exascale",
+    "evaluation": "1.717"
+  },
+  {
+    "title": "Priority-Aware Resource Allocation Algorithm for Cloud Computing",
+    "evaluation": "1.571"
+  },
+  {
+    "title": "Lotus: Serverless In-Transit Data Processing for Edge-Based Pub/Sub",
+    "evaluation": "1.429"
+  },
+  {
+    "title": "OneEdge: An Efficient Control Plane for Geo-Distributed Infrastructures",
+    "evaluation": "1.380"
+  },
+  {
+    "title": "A Methodological Perspective on Lawful Internet Surveillance",
+    "evaluation": "1.340"
+  },
+  {
+    "title": "12th IEEE/ACM International UCC/BDCAT'19 CloudAM'19 Workshop Chairs' Welcome Message &amp; Organization",
+    "evaluation": "1.200"
+  },
+  {
+    "title": "Oversubscribing Micro-Clouds with Energy-Aware Containers Scheduling",
+    "evaluation": "1.112"
+  },
+  {
+    "title": "Context-Aware Attribute Based Access Control for Cloud-based SCADA Systems",
+    "evaluation": "0.850"
+  },
+  {
+    "title": "Beyond @CloudFunction: Powerful Code Annotations to Capture Serverless Runtime Patterns",
+    "evaluation": "0.783"
+  },
+  {
+    "title": "MirageManager: Enabling Stateful Migration for Unikernels",
+    "evaluation": "0.700"
+  },
+  {
+    "title": "Improving BLE Fingerprint Radio Maps: A Method Based on Fuzzy Clustering and Weighted Interpolation",
+    "evaluation": "0.557"
+  },
+  {
+    "title": "Implementation of NDN Function Chaining Using Caching for IoT Environments",
+    "evaluation": "0.467"
+  },
+  {
+    "title": "Why an Informatics Degree?",
+    "evaluation": "0.333"
+  },
+  {
+    "title": "Performance Analysis of Hyperledger Fabric 2.0 Blockchain Platform",
+    "evaluation": "0.271"
+  },
+  {
+    "title": "Distributed Control Function Selection Method for Service Function Chaining in NDN",
+    "evaluation": "0.067"
+  },
+  {
+    "title": "Opportunistic Security Architecture for Osmotic Computing Paradigm in Dynamic IoT-Edge's Resource Diffusion",
+    "evaluation": "0.000"
+  },
+  {
+    "title": "FRAME '21: Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "WETSEB '22: Proceedings of the 5th International Workshop on Emerging Trends in Software Engineering for Blockchain",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "SESoS '22: Proceedings of the 10th IEEE/ACM International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "SEA4DQ 2022: Proceedings of the 2nd International Workshop on Software Engineering and AI for Data Quality in Cyber-Physical Systems/Internet of Things",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "ViSNext '22: Proceedings of the 2nd International Workshop on Design, Deployment, and Evaluation of Network-Assisted Video Streaming",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "GoodIT '22: Proceedings of the 2022 ACM Conference on Information Technology for Social Good",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "SE4RAI '22: Proceedings of the 1st Workshop on Software Engineering for Responsible AI",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Middleware '22: Proceedings of the 23rd ACM/IFIP International Middleware Conference",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "EdgeSys '23: Proceedings of the 6th International Workshop on Edge Systems, Analytics and Networking",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "ICIMMI '22: Proceedings of the 4th International Conference on Information Management &amp; Machine Intelligence",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "IPSN '23: Proceedings of the 22nd International Conference on Information Processing in Sensor Networks",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "IoTDI '23: Proceedings of the 8th ACM/IEEE Conference on Internet of Things Design and Implementation",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "e-Energy '23 Companion: Companion Proceedings of the 14th ACM International Conference on Future Energy Systems",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "ACM REP '23: Proceedings of the 2023 ACM Conference on Reproducibility and Replicability",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "BiDEDE '23: Proceedings of the International Workshop on Big Data in Emergent Distributed Environments",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "DEBS '23: Proceedings of the 17th ACM International Conference on Distributed and Event-Based Systems",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "SAC '23: Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "CCIoT '20: Proceedings of the Workshop on Cloud Continuum Services for Smart IoT Systems",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "An Intelligent Continuum for Intelligent Applications",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Poster: Towards a Federated Testbed Infrastructure for Geographically-Distributed Low-Power Wireless Systems",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "DIM '11: Proceedings of the 7th ACM Workshop on Digital Identity Management",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "\"U Are Happy Life\": Telling the Future's Stories",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "TRUSTEE: Towards the Creation of Secure, Trustworthy and Privacy-Preserving Framework",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "IIoT-NETs '23: Proceedings of the 1st Workshop on Enhanced Network Techniques and Technologies for the Industrial IoT to Cloud Continuum",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "FactoryDC: Network and Resource Planning for Emerging Applications in Future Factories",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Opportunistic Digital Twin: An Edge Intelligence Enabler for Smart City",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "GoodIT '23: Proceedings of the 2023 ACM Conference on Information Technology for Social Good",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "ARES '23: Proceedings of the 18th International Conference on Availability, Reliability and Security",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "CPS-IoT Week '23: Proceedings of Cyber-Physical Systems and Internet of Things Week 2023",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "SenSys '22: Proceedings of the 20th ACM Conference on Embedded Networked Sensor Systems",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Reactive Microservices for the Internet of Things: A Case Study in Fog Computing",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "FabOS: Hooking up Container Platforms with Time-Sensitive Networks",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "SymbIoT: Towards An Extensible Blockchain Integration Testbed for IIoT",
+    "evaluation": "-1.000"
+  },
+  {
+    "title": "Operationalizing Machine Learning Models: A Systematic Literature Review",
+    "evaluation": "-990.787"
+  },
+  {
+    "title": "A Systematic Review on Osmotic Computing",
+    "evaluation": "-993.747"
+  },
+  {
+    "title": "Decentralised Learning in Federated Deployment Environments: A System-Level Survey",
+    "evaluation": "-997.229"
+  },
+  {
+    "title": "Edge-Computing-Driven Internet of Things: A Survey",
+    "evaluation": "-997.754"
+  },
+  {
+    "title": "A Survey on Edge Performance Benchmarking",
+    "evaluation": "-998.143"
+  },
+  {
+    "title": "A Systematic Review of Data Quality in CPS and IoT for Industry 4.0",
+    "evaluation": "-998.247"
+  },
+  {
+    "title": "Towards the Decentralised Cloud: Survey on Approaches and Challenges for Mobile, Ad Hoc, and Edge Computing",
+    "evaluation": "-998.314"
+  },
+  {
+    "title": "A Survey of Techniques for Fulfilling the Time-Bound Requirements of Time-Sensitive IoT Applications",
+    "evaluation": "-998.492"
+  },
+  {
+    "title": "A Survey on IoT Big Data: Current Status, 13 V\u2019s Challenges, and Future Directions",
+    "evaluation": "-998.619"
+  }
+]

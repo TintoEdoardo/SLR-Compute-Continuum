@@ -1,5 +1,4 @@
-Primary studies:
+Search String: 
+"cloud continuum" OR "continuum of computing" OR "continuum of computation" OR "osmotic computing" OR "edge continuum" OR "compute continuum"
 
-Those bibliographies were extracted from the selected digital libraries at the end of the process to assess the replicability of the selection procedure. 
-We tried to match the initial extraction date as closely as possible, but unfortunately, it spans several days; hence, we could not match it perfectly. 
-As a result, the output is slightly larger than the one used in this work, by less than 40 articles. 
+Collection frame: from 01-2006 to 09-2023. 
