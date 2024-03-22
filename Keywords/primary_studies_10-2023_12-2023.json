@@ -1,0 +1,122 @@
+[
+  {
+    "key": "continuum",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "continuum",
+    "weight": "0.7",
+    "loc": "abstract"
+  },
+  {
+    "key": "edge continuum",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "edge continuum",
+    "weight": "1",
+    "loc": "abstract"
+  },
+  {
+    "key": "cloud continuum",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "cloud continuum",
+    "weight": "1",
+    "loc": "abstract"
+  },
+  {
+    "key": "compute continuum",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "compute continuum",
+    "weight": "1",
+    "loc": "abstract"
+  },
+  {
+    "key": "computing continuum",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "computing continuum",
+    "weight": "1",
+    "loc": "abstract"
+  },
+  {
+    "key": "continuum of computing",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "continuum of computing",
+    "weight": "1",
+    "loc": "abstract"
+  },
+  {
+    "key": "continuum of computation",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "continuum of computation",
+    "weight": "1",
+    "loc": "abstract"
+  },
+  {
+    "key": "osmotic computing",
+    "weight": "1",
+    "loc": "title"
+  },
+  {
+    "key": "osmotic computing",
+    "weight": "1",
+    "loc": "absract"
+  },
+  {
+    "key": "architecture",
+    "weight": "0.5",
+    "loc": "title"
+  },
+  {
+    "key": "architecture",
+    "weight": "0.5",
+    "loc": "abstract"
+  },
+  {
+    "key": "slr",
+    "weight": "-1000",
+    "loc": "title"
+  },
+  {
+    "key": "systematic review",
+    "weight": "-1000",
+    "loc": "title"
+  },
+  {
+    "key": "systematicreview",
+    "weight": "-1000",
+    "loc": "title"
+  },
+  {
+    "key": "systematic literature review",
+    "weight": "-1000",
+    "loc": "title"
+  },
+  {
+    "key": "systematicliteraturereview",
+    "weight": "-1000",
+    "loc": "title"
+  },
+  {
+    "key": "survey",
+    "weight": "-1000",
+    "loc": "title"
+  }
+]
